@@ -1,0 +1,1041 @@
+Name,Species,Clade,Order,Family,Dataset,Individuals,Loci,GD,AOO_km2,EOO_km2,overall Fst,Scale,Metric,z,lCI,uCI,p,include
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,145,Functional,88,140,-0.136,AOO,Ho,0.159,0.124,0.195,3.68E-18,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,145,Functional,88,140,-0.136,AOO,uHe,0.16,0.125,0.194,1.86E-19,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,145,Functional,88,140,-0.136,AOO,He,0.174,0.139,0.208,1.49E-22,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,145,Functional,88,140,-0.136,EOO,uHe,0.271,0.237,0.306,6.00E-51,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,145,Functional,88,140,-0.136,EOO,Ho,0.289,0.253,0.324,5.04E-54,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,145,Functional,88,140,-0.136,EOO,He,0.281,0.247,0.316,3.12E-54,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,145,Functional,88,140,-0.136,AOO,Ar,0.172,0.164,0.18,1.37E-271,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,145,Functional,88,140,-0.136,AOO,H,0.198,0.195,0.201,0.00E+00,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,145,Functional,88,140,-0.136,EOO,Ar,0.192,0.184,0.2,0.00E+00,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,145,Functional,88,140,-0.136,EOO,H,0.084,0.082,0.087,0.00E+00,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,17805,Overall,88,140,-0.052,AOO,Ho,0.069,0.048,0.09,2.60E-10,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,17805,Overall,88,140,-0.052,AOO,uHe,0.069,0.049,0.09,8.19E-11,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,17805,Overall,88,140,-0.052,AOO,He,0.084,0.063,0.105,9.43E-15,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,17805,Overall,88,140,-0.052,EOO,uHe,0.15,0.13,0.171,2.36E-43,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,17805,Overall,88,140,-0.052,EOO,Ho,0.156,0.135,0.178,3.79E-45,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,17805,Overall,88,140,-0.052,EOO,He,0.161,0.14,0.182,3.11E-48,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,17805,Overall,88,140,-0.052,AOO,H,0.225,0.201,0.249,5.34E-70,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,17805,Overall,88,140,-0.052,EOO,H,0.281,0.257,0.305,8.21E-104,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,17805,Overall,88,140,-0.052,AOO,Ar,0.173,0.166,0.181,1.07E-302,yes
+Bellinger river snapping turtle,Myuchelys georgesi,Reptiles,Testudines,Chelidae,Myuc_geor_1,345,17805,Overall,88,140,-0.052,EOO,Ar,0.189,0.182,0.197,0.00E+00,yes
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,2,Functional,80,162928,-0.0338,EOO,Ar,-0.004,-0.010,0.003,0.2456867,no
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,2,Functional,80,162928,-0.0338,AOO,Ho,-0.098,-0.158,-0.038,0.001499557,no
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,2,Functional,80,162928,-0.0338,AOO,He,-0.092,-0.149,-0.036,0.001389254,no
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,2,Functional,80,162928,-0.0338,AOO,H,-0.072,-0.116,-0.028,0.001321342,no
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,2,Functional,80,162928,-0.0338,AOO,uHe,-0.100,-0.158,-0.043,0.000650999,no
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,2,Functional,80,162928,-0.0338,AOO,Ar,0.120,0.092,0.147,2.12904E-16,no
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,2,Functional,80,162928,-0.0338,EOO,Ho,-0.078,-0.087,-0.069,6.63465E-47,no
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,2,Functional,80,162928,-0.0338,EOO,uHe,-0.075,-0.084,-0.066,4.4423E-47,no
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,2,Functional,80,162928,-0.0338,EOO,He,-0.074,-0.082,-0.066,8.78515E-48,no
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,2,Functional,80,162928,-0.0338,EOO,H,-0.058,-0.064,-0.051,6.05834E-48,no
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,34,Functional,44,52,-0.0221,EOO,uHe,-0.001,-0.012,0.011,0.923277,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,34,Functional,44,52,-0.0221,EOO,Ho,0.001,-0.012,0.015,0.8317747,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,34,Functional,44,52,-0.0221,AOO,uHe,0.008,-0.002,0.018,0.09693118,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,34,Functional,44,52,-0.0221,AOO,Ho,0.016,0.005,0.028,0.005671109,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,34,Functional,44,52,-0.0221,EOO,He,0.020,0.008,0.033,0.000879874,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,34,Functional,44,52,-0.0221,AOO,He,0.033,0.023,0.043,2.56337E-10,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,34,Functional,44,52,-0.0221,EOO,H,0.056,0.043,0.069,7.18669E-17,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,34,Functional,44,52,-0.0221,AOO,H,0.073,0.063,0.083,7.57619E-40,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,34,Functional,44,52,-0.0221,EOO,Ar,0.128,0.116,0.140,6.32065E-74,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,34,Functional,44,52,-0.0221,AOO,Ar,0.144,0.137,0.150,2.0761E-175,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,8282,Overall,44,52,-0.002,EOO,Ho,0.005,0.001,0.008,4.47E-03,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,8282,Overall,44,52,-0.002,EOO,uHe,0.006,0.004,0.008,4.53E-09,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,8282,Overall,44,52,-0.002,AOO,uHe,0.008,0.007,0.01,1.63E-24,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,8282,Overall,44,52,-0.002,EOO,He,0.026,0.022,0.031,3.85E-28,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,8282,Overall,44,52,-0.002,EOO,H,0.065,0.057,0.074,8.55E-41,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,8282,Overall,44,52,-0.002,AOO,He,0.032,0.029,0.036,6.63E-64,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,8282,Overall,44,52,-0.002,EOO,Ar,0.154,0.139,0.169,1.12E-67,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,8282,Overall,44,52,-0.002,AOO,H,0.078,0.072,0.084,6.67E-93,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,8282,Overall,44,52,-0.002,AOO,Ar,0.177,0.168,0.185,2.70E-168,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1a,94,8282,Overall,44,52,-0.002,AOO,Ho,0.008,0.006,0.011,0,yes
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,5197,Overall,80,162928,-0.001,AOO,Ho,0,0,0,2.66E-02,yes
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,5197,Overall,80,162928,-0.001,EOO,Ho,0,0,0,9.51E-07,yes
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,5197,Overall,80,162928,-0.001,EOO,uHe,-0.001,-0.001,-0.001,7.48E-61,yes
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,5197,Overall,80,162928,-0.001,EOO,He,0.001,0.001,0.001,1.56E-69,yes
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,5197,Overall,80,162928,-0.001,EOO,H,0.002,0.002,0.002,1.90E-74,yes
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,5197,Overall,80,162928,-0.001,EOO,Ar,0.009,0.008,0.009,1.01E-99,yes
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,5197,Overall,80,162928,-0.001,AOO,uHe,-0.005,-0.005,-0.004,1.42E-102,yes
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,5197,Overall,80,162928,-0.001,AOO,He,0.007,0.006,0.007,1.84E-112,yes
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,5197,Overall,80,162928,-0.001,AOO,H,0.012,0.011,0.013,1.18E-121,yes
+Bogong moth,Agrotis infusa,Insects,Lepidoptera,Noctuidae,Agro_infu_1,345,5197,Overall,80,162928,-0.001,AOO,Ar,0.046,0.043,0.049,1.57E-157,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,4951,Overall,60,58064,0,AOO,He,0.021,0.02,0.022,4.579414e-313,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,4951,Overall,60,58064,0,EOO,Ho,0,0,0,0.8381531,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,6567,Overall,8,8,0,AOO,uHe,-0.002,-0.005,0.002,3.55E-01,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,6567,Overall,8,8,0,EOO,uHe,-0.002,-0.005,0.002,3.55E-01,no
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,4951,Overall,60,58064,0,AOO,Ho,-0.001,-0.002,0,0.04911896,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,6567,Overall,8,8,0,AOO,Ho,-0.005,-0.008,-0.001,1.29E-02,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,6567,Overall,8,8,0,EOO,Ho,-0.005,-0.008,-0.001,1.29E-02,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,6567,Overall,8,8,0,AOO,He,0.035,0.024,0.046,1.95E-09,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,6567,Overall,8,8,0,EOO,He,0.035,0.024,0.046,1.95E-09,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,6567,Overall,8,8,0,AOO,H,0.058,0.042,0.074,1.25E-11,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,6567,Overall,8,8,0,EOO,H,0.058,0.042,0.074,1.25E-11,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,6567,Overall,8,8,0,AOO,Ar,0.124,0.095,0.152,5.40E-16,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,6567,Overall,8,8,0,EOO,Ar,0.124,0.095,0.152,5.40E-16,no
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,4951,Overall,60,58064,0,AOO,uHe,0.006,0.006,0.007,2.54E-115,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,4951,Overall,60,58064,0,EOO,uHe,0.002,0.002,0.002,8.89E-131,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,4951,Overall,60,58064,0,AOO,Ar,0.136,0.134,0.138,0.00E+00,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,4951,Overall,60,58064,0,AOO,H,0.042,0.041,0.043,0.00E+00,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,4951,Overall,60,58064,0,EOO,Ar,0.033,0.032,0.033,0.00E+00,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,4951,Overall,60,58064,0,EOO,H,0.011,0.01,0.011,0.00E+00,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,4951,Overall,60,58064,0,EOO,He,0.005,0.005,0.006,0.00E+00,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,152,3524,Overall,136,142284,0.001,AOO,Ar,0.139,0.134,0.143,6.916919e-323,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,7625,Overall,64,1388,0.001,EOO,Ho,0,-0.001,0.001,8.98E-01,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,7625,Overall,64,1388,0.001,AOO,Ho,-0.003,-0.005,-0.002,0.0002,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,7625,Overall,64,1388,0.001,AOO,uHe,0.005,0.004,0.007,4.91E-11,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,1991,Overall,132,142284,0.001,EOO,Ho,0,0,0.001,3.48E-11,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,1991,Overall,132,142284,0.001,AOO,Ho,0.002,0.001,0.002,2.10E-19,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,152,3524,Overall,136,142284,0.001,EOO,Ho,0.001,0.001,0.001,4.29E-20,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,7625,Overall,64,1388,0.001,EOO,uHe,0.004,0.003,0.004,5.49E-25,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,152,3524,Overall,136,142284,0.001,AOO,Ho,0.004,0.003,0.004,6.22E-43,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,7625,Overall,64,1388,0.001,EOO,He,0.017,0.015,0.019,3.71E-47,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,152,3524,Overall,136,142284,0.001,EOO,uHe,-0.001,-0.001,-0.001,1.67E-48,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,1991,Overall,132,142284,0.001,EOO,uHe,-0.002,-0.002,-0.002,7.59E-59,no
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,7625,Overall,64,1388,0.001,AOO,He,0.04,0.035,0.044,6.20E-59,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,7625,Overall,64,1388,0.001,EOO,H,0.038,0.035,0.042,1.90E-74,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,1991,Overall,132,142284,0.001,EOO,Ar,0.014,0.013,0.015,1.13E-99,no
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,7625,Overall,64,1388,0.001,AOO,H,0.093,0.086,0.1,1.30E-100,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,152,3524,Overall,136,142284,0.001,AOO,uHe,-0.005,-0.005,-0.005,3.18E-105,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,152,3524,Overall,136,142284,0.001,EOO,Ar,0.033,0.031,0.035,3.27E-137,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,1991,Overall,132,142284,0.001,AOO,uHe,-0.009,-0.01,-0.009,3.08E-143,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,1991,Overall,132,142284,0.001,EOO,H,0.005,0.005,0.006,5.12E-145,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,1991,Overall,132,142284,0.001,AOO,Ar,0.058,0.054,0.061,2.02E-164,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,152,3524,Overall,136,142284,0.001,EOO,H,0.007,0.006,0.007,6.74E-176,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,7625,Overall,64,1388,0.001,EOO,Ar,0.073,0.07,0.076,2.63E-195,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,1991,Overall,132,142284,0.001,AOO,He,0.014,0.013,0.014,2.60E-245,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,1991,Overall,132,142284,0.001,AOO,H,0.021,0.02,0.022,2.33E-248,no
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,7625,Overall,64,1388,0.001,AOO,Ar,0.168,0.162,0.174,3.55E-257,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,1991,Overall,132,142284,0.001,EOO,He,0.004,0.003,0.004,0,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,152,3524,Overall,136,142284,0.001,AOO,H,0.026,0.025,0.027,0.00E+00,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,152,3524,Overall,136,142284,0.001,AOO,He,0.018,0.017,0.018,0.00E+00,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,152,3524,Overall,136,142284,0.001,EOO,He,0.005,0.004,0.005,0,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,8367,Overall,20,4,0.002,AOO,Ho,0.007,0.004,0.009,1.07E-06,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,8367,Overall,20,4,0.002,EOO,Ho,0.006928584,0.004317138,0.01,2.84E-07,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,8367,Overall,20,4,0.002,EOO,uHe,0.012,0.01,0.015,2.74E-19,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,8367,Overall,20,4,0.002,EOO,He,0.053,0.044,0.062,4.46E-25,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,8367,Overall,20,4,0.002,EOO,H,0.08437772,0.07052225,0.0982332,8.66E-29,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,8367,Overall,20,4,0.002,AOO,uHe,0.016,0.013,0.018,6.03E-33,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,8367,Overall,20,4,0.002,EOO,Ar,0.151,0.129,0.172,1.52E-35,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,8367,Overall,20,4,0.002,AOO,He,0.068,0.059,0.076,4.85E-43,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,8367,Overall,20,4,0.002,AOO,H,0.108,0.096,0.121,3.94E-51,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,8367,Overall,20,4,0.002,AOO,Ar,0.197,0.178,0.215,4.92E-69,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,7363,Overall,16,4,0.004,AOO,Ho,-0.003,-0.006,-0.001,1.58E-02,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,7363,Overall,16,4,0.004,EOO,Ho,-0.004,-0.007,-0.001,7.60E-03,no
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,2149,Overall,72,270228,0.004,EOO,Ho,0.009,0.004,0.013,0.000117426,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,7363,Overall,16,4,0.004,EOO,uHe,0.006,0.004,0.008,7.55E-07,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,8614,Overall,12,8,0.004,AOO,Ho,0.016,0.01,0.022,9.40E-08,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,8614,Overall,12,8,0.004,EOO,Ho,0.01597243,0.01021629,0.022,9.40E-08,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,7363,Overall,16,4,0.004,AOO,uHe,0.007,0.005,0.009,7.99E-10,no
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,2149,Overall,72,270228,0.004,AOO,Ho,0.053,0.038,0.069,1.41E-10,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,7363,Overall,16,4,0.004,EOO,He,0.041,0.033,0.049,1.09E-22,no
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,2149,Overall,72,270228,0.004,EOO,uHe,0.014,0.012,0.016,1.78E-23,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,8614,Overall,12,8,0.004,AOO,He,0.098,0.08,0.116,1.45E-23,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,8614,Overall,12,8,0.004,EOO,He,0.098,0.08,0.116,1.45E-23,no
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,2149,Overall,72,270228,0.004,AOO,uHe,0.054,0.047,0.062,2.81E-26,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,8614,Overall,12,8,0.004,AOO,H,0.147,0.122,0.172,2.15E-26,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,8614,Overall,12,8,0.004,EOO,H,0.1469409,0.1220431,0.1718388,2.15E-26,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,7363,Overall,16,4,0.004,EOO,H,0.063,0.052,0.074,2.11E-27,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,8614,Overall,12,8,0.004,AOO,uHe,0.033,0.027,0.038,2.53E-28,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,8614,Overall,12,8,0.004,EOO,uHe,0.033,0.027,0.038,2.53E-28,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,7363,Overall,16,4,0.004,AOO,He,0.046,0.038,0.053,4.60E-31,no
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,2149,Overall,72,270228,0.004,EOO,Ar,0.047,0.042,0.053,4.98E-33,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,7363,Overall,16,4,0.004,AOO,H,0.07,0.06,0.08,1.05E-37,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,7363,Overall,16,4,0.004,EOO,Ar,0.121,0.104,0.138,8.51E-38,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,8614,Overall,12,8,0.004,AOO,Ar,0.245,0.213,0.278,1.84E-38,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,8614,Overall,12,8,0.004,EOO,Ar,0.245,0.213,0.278,1.84E-38,no
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,2149,Overall,72,270228,0.004,AOO,He,0.161,0.148,0.174,6.11E-49,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,7363,Overall,16,4,0.004,AOO,Ar,0.133,0.118,0.148,5.02E-52,no
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,2149,Overall,72,270228,0.004,AOO,H,0.198,0.184,0.213,3.54E-52,yes
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,2149,Overall,72,270228,0.004,EOO,He,0.043,0.04,0.046,2.52E-53,yes
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,2149,Overall,72,270228,0.004,EOO,H,0.053,0.049,0.056,8.71E-56,yes
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,2149,Overall,72,270228,0.004,AOO,Ar,0.204,0.192,0.216,1.21E-61,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,1860,Overall,44,445732,0.009,AOO,Ho,0,-0.005,0.004,0.8700868,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,1860,Overall,44,445732,0.009,EOO,Ho,0.001,0,0.001,0.1356835,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,1860,Overall,44,445732,0.009,AOO,uHe,0.006,0.004,0.008,3.49E-09,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,1860,Overall,44,445732,0.009,EOO,uHe,0.001,0.001,0.001,1.21E-12,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,1860,Overall,44,445732,0.009,EOO,He,0.008,0.007,0.008,3.69E-105,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,1860,Overall,44,445732,0.009,AOO,He,0.048,0.045,0.051,5.69E-109,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,1860,Overall,44,445732,0.009,EOO,H,0.013,0.012,0.014,5.94E-119,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,1860,Overall,44,445732,0.009,AOO,H,0.08,0.076,0.084,1.12E-130,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,1860,Overall,44,445732,0.009,EOO,Ar,0.022,0.021,0.023,3.09E-139,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,1860,Overall,44,445732,0.009,AOO,Ar,0.143,0.137,0.148,1.52E-182,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,46,Functional,60,58064,0.01,EOO,Ho,0,-0.002,0.002,0.9621791,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,46,Functional,60,58064,0.01,AOO,uHe,-0.003,-0.006,0.001,1.98E-01,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,46,Functional,60,58064,0.01,EOO,uHe,0.001,0,0.002,1.28E-01,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,46,Functional,60,58064,0.01,AOO,Ho,-0.008,-0.014,-0.002,0.01140818,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,46,Functional,60,58064,0.01,AOO,He,0.012,0.009,0.016,2.65E-10,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,46,Functional,60,58064,0.01,EOO,He,0.005,0.004,0.005,1.31E-20,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,46,Functional,60,58064,0.01,AOO,H,0.046,0.043,0.049,4.31E-130,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,46,Functional,60,58064,0.01,EOO,H,0.012,0.011,0.013,1.52E-146,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,46,Functional,60,58064,0.01,AOO,Ar,0.145,0.143,0.147,0.00E+00,yes
+Blowfly sp,Chrysomya latifrons,Insects,Diptera,Calliphoridae,Chry_lati_1,187,46,Functional,60,58064,0.01,EOO,Ar,0.034,0.034,0.035,0.00E+00,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,1401,Overall,72,32452,0.011,AOO,Ho,0.013,0.003,0.023,0.01397849,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,1401,Overall,72,32452,0.011,EOO,Ho,0.006,0.003,0.009,0.000142186,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,1401,Overall,72,32452,0.011,EOO,uHe,0.023,0.021,0.025,1.98E-64,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,1401,Overall,72,32452,0.011,AOO,uHe,0.079,0.071,0.087,1.17E-71,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,1401,Overall,72,32452,0.011,EOO,He,0.029,0.027,0.032,1.93E-84,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,1401,Overall,72,32452,0.011,AOO,He,0.097,0.089,0.106,4.31E-88,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,1401,Overall,72,32452,0.011,AOO,H,0.109,0.1,0.118,3.96E-95,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,1401,Overall,72,32452,0.011,EOO,H,0.034,0.031,0.037,1.12E-100,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,1401,Overall,72,32452,0.011,AOO,Ar,0.161,0.156,0.167,7.51E-308,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,1401,Overall,72,32452,0.011,EOO,Ar,0.052,0.051,0.053,0,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,42,1945,Overall,136,495552,0.021,EOO,Ho,-0.005,-0.011,0.002,0.1852632,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,42,1945,Overall,136,495552,0.021,AOO,Ho,-0.022,-0.043,-0.001,0.04139147,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,42,1945,Overall,136,495552,0.021,AOO,uHe,0.03,0.012,0.048,0.00122743,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,42,1945,Overall,136,495552,0.021,EOO,uHe,0.01,0.004,0.015,0.000981117,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,42,1945,Overall,136,495552,0.021,AOO,He,0.119,0.099,0.139,4.46E-25,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,42,1945,Overall,136,495552,0.021,EOO,He,0.038,0.032,0.044,5.41E-26,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,42,1945,Overall,136,495552,0.021,AOO,H,0.153,0.132,0.174,3.44E-33,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,42,1945,Overall,136,495552,0.021,EOO,H,0.048,0.042,0.055,4.80E-34,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,42,1945,Overall,136,495552,0.021,EOO,Ar,0.051,0.048,0.055,1.25E-83,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,42,1945,Overall,136,495552,0.021,AOO,Ar,0.172,0.164,0.18,4.26E-109,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,75,Functional,40,48,0.025,AOO,Ho,0.001,-0.011,0.013,9.33E-01,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,75,Functional,40,48,0.025,EOO,Ho,-0.009,-0.024,0.005,1.95E-01,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,75,Functional,40,48,0.025,EOO,uHe,0.021,0.008,0.033,1.04E-03,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,75,Functional,40,48,0.025,EOO,He,0.055,0.039,0.071,5.19E-11,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,75,Functional,40,48,0.025,AOO,uHe,0.035,0.025,0.045,3.25E-11,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,75,Functional,40,48,0.025,EOO,H,0.074,0.057,0.091,3.92E-16,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,75,Functional,40,48,0.025,AOO,He,0.08,0.068,0.092,2.06E-32,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,75,Functional,40,48,0.025,AOO,H,0.104,0.091,0.116,8.83E-47,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,75,Functional,40,48,0.025,EOO,Ar,0.109,0.096,0.121,4.68E-52,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,75,Functional,40,48,0.025,AOO,Ar,0.131,0.124,0.139,4.70E-149,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,46,Functional,64,1388,0.0351,AOO,Ho,-0.008,-0.017,0.002,0.1099652,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,46,Functional,64,1388,0.0351,EOO,Ho,0.004,0.000,0.009,0.04831079,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,46,Functional,64,1388,0.0351,AOO,uHe,0.017,0.010,0.024,1.75364E-06,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,46,Functional,64,1388,0.0351,EOO,uHe,0.011,0.008,0.014,3.13486E-11,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,46,Functional,64,1388,0.0351,EOO,He,0.024,0.019,0.028,9.12891E-26,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,46,Functional,64,1388,0.0351,AOO,He,0.051,0.042,0.061,8.05164E-26,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,46,Functional,64,1388,0.0351,EOO,H,0.047,0.041,0.052,3.89706E-53,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,46,Functional,64,1388,0.0351,AOO,H,0.107,0.096,0.119,4.33837E-60,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,46,Functional,64,1388,0.0351,EOO,Ar,0.072,0.068,0.075,9.654E-186,yes
+Sulphur-crested cockatoo,Cacatua galerita,Birds,Psittaciformes,Cacatuidae,Caca_gale_1b,112,46,Functional,64,1388,0.0351,AOO,Ar,0.161,0.154,0.168,1.0249E-217,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,386,Functional,320,2821140,0.0354,AOO,Ho,0.015,0.006,0.024,0.001679335,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,386,Functional,320,2821140,0.0354,EOO,Ho,0.006,0.003,0.009,0.000401691,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,386,Functional,320,2821140,0.0354,AOO,uHe,0.098,0.089,0.107,8.6023E-72,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,386,Functional,320,2821140,0.0354,EOO,uHe,0.039,0.035,0.042,5.16228E-87,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,386,Functional,320,2821140,0.0354,AOO,He,0.165,0.154,0.175,6.6366E-114,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,386,Functional,320,2821140,0.0354,EOO,He,0.064,0.060,0.067,2.4807E-138,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,386,Functional,320,2821140,0.0354,AOO,H,0.232,0.221,0.243,3.6145E-161,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,386,Functional,320,2821140,0.0354,EOO,Ar,0.058,0.055,0.060,3.8173E-167,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,386,Functional,320,2821140,0.0354,EOO,H,0.086,0.083,0.090,2.5322E-175,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,386,Functional,320,2821140,0.0354,AOO,Ar,0.172,0.168,0.175,1.3119E-306,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,74,Functional,152,10364,0.037,AOO,Ho,0.002,-0.001,0.005,2.21E-01,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,74,Functional,152,10364,0.037,EOO,Ho,0.001,0,0.002,0.083,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,74,Functional,152,10364,0.037,EOO,uHe,0.007,0.006,0.008,2.40E-51,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,74,Functional,152,10364,0.037,AOO,uHe,0.022,0.02,0.025,8.83E-56,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,74,Functional,152,10364,0.037,EOO,He,0.014,0.012,0.015,5.87E-86,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,74,Functional,152,10364,0.037,EOO,H,0.019,0.017,0.02,8.75E-111,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,74,Functional,152,10364,0.037,AOO,He,0.052,0.048,0.055,7.77E-140,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,74,Functional,152,10364,0.037,EOO,Ar,0.03,0.028,0.032,6.65E-151,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,74,Functional,152,10364,0.037,AOO,H,0.071,0.067,0.075,1.37E-182,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,74,Functional,152,10364,0.037,AOO,Ar,0.112,0.108,0.117,3.36E-263,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,36723,Overall,320,2821140,0.038,EOO,Ho,0.005,0.003,0.007,2.71E-05,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,36723,Overall,320,2821140,0.038,AOO,Ho,0.018,0.012,0.024,4.56E-08,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,62,Functional,104,3052,0.038,EOO,Ho,0.015,0.011,0.019,1.47E-11,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,62,Functional,104,3052,0.038,AOO,Ho,0.036,0.026,0.045,3.90E-12,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,62,Functional,104,3052,0.038,AOO,uHe,0.043,0.035,0.052,1.48E-22,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,62,Functional,104,3052,0.038,EOO,uHe,0.02,0.017,0.024,4.88E-26,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,62,Functional,104,3052,0.038,EOO,He,0.033,0.029,0.038,8.79E-44,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,62,Functional,104,3052,0.038,EOO,H,0.042,0.037,0.047,5.02E-51,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,62,Functional,104,3052,0.038,AOO,He,0.089,0.08,0.098,7.99E-63,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,62,Functional,104,3052,0.038,EOO,Ar,0.043,0.039,0.047,1.93E-72,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,62,Functional,104,3052,0.038,AOO,H,0.111,0.101,0.121,1.48E-73,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,36723,Overall,320,2821140,0.038,AOO,uHe,0.099,0.093,0.105,8.76E-115,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,36723,Overall,320,2821140,0.038,EOO,uHe,0.037,0.034,0.039,2.99E-119,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,62,Functional,104,3052,0.038,AOO,Ar,0.118,0.111,0.125,2.18E-127,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,36723,Overall,320,2821140,0.038,EOO,Ar,0.059,0.056,0.062,2.37E-140,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,36723,Overall,320,2821140,0.038,AOO,He,0.165,0.157,0.174,1.35E-147,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,36723,Overall,320,2821140,0.038,EOO,He,0.062,0.059,0.065,8.98E-160,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,36723,Overall,320,2821140,0.038,EOO,H,0.084,0.081,0.088,3.99E-186,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,36723,Overall,320,2821140,0.038,AOO,H,0.23,0.221,0.239,4.62E-189,yes
+Jewelled gecko,Strophurus elderi,Reptiles,Squamata,Diplodactylidae,Stro_elde_1,82,36723,Overall,320,2821140,0.038,AOO,Ar,0.179,0.174,0.184,5.06E-252,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,33,Functional,192,1087876,0.043,EOO,Ho,0.001,-0.004,0.007,0.665,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,6923,Overall,104,3052,0.043,EOO,Ho,0.001,0,0.001,0.01391405,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,33,Functional,192,1087876,0.043,EOO,uHe,0.006,0.002,0.01,4.37E-03,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,33,Functional,192,1087876,0.043,AOO,Ho,0.027,0.01,0.043,0.002,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,6923,Overall,104,3052,0.043,AOO,Ho,0.002,0.001,0.004,0.001213449,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,33,Functional,192,1087876,0.043,AOO,uHe,0.03,0.017,0.042,3.39E-06,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,33,Functional,192,1087876,0.043,EOO,He,0.027,0.023,0.032,1.09E-24,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,33,Functional,192,1087876,0.043,AOO,He,0.095,0.082,0.109,3.97E-36,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,33,Functional,192,1087876,0.043,EOO,H,0.039,0.034,0.045,2.46E-38,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,33,Functional,192,1087876,0.043,AOO,H,0.134,0.12,0.147,8.35E-55,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,6923,Overall,104,3052,0.043,EOO,He,0.023,0.02,0.025,3.71E-56,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,6923,Overall,104,3052,0.043,EOO,H,0.03,0.027,0.033,8.13E-60,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,6923,Overall,104,3052,0.043,EOO,uHe,0.009,0.009,0.01,1.24E-61,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,6923,Overall,104,3052,0.043,EOO,Ar,0.048,0.044,0.053,9.92E-71,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,6923,Overall,104,3052,0.043,AOO,uHe,0.024,0.022,0.026,5.60E-80,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,33,Functional,192,1087876,0.043,EOO,Ar,0.039,0.036,0.042,9.78E-82,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,33,Functional,192,1087876,0.043,AOO,Ar,0.128,0.122,0.134,5.72E-133,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,6923,Overall,104,3052,0.043,AOO,He,0.069,0.065,0.073,2.45E-134,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,6923,Overall,104,3052,0.043,AOO,H,0.09,0.085,0.094,4.38E-144,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2b,79,6923,Overall,104,3052,0.043,AOO,Ar,0.144,0.138,0.15,8.15E-179,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,3320,Overall,192,1087876,0.045,EOO,Ho,0,-0.001,0.002,0.595,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,3320,Overall,192,1087876,0.045,AOO,Ho,-0.003,-0.007,0.001,0.152,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,15,Functional,80,912,0.045,EOO,Ho,0.011,-0.001,0.022,7.72E-02,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,15,Functional,80,912,0.045,EOO,uHe,0.008,0.001,0.015,0.035,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,15,Functional,80,912,0.045,AOO,uHe,0.025,0.01,0.041,0.002,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,15,Functional,80,912,0.045,EOO,He,0.04,0.031,0.05,8.05E-14,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,15,Functional,80,912,0.045,EOO,H,0.051,0.04,0.062,2.09E-16,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,15,Functional,80,912,0.045,AOO,He,0.11,0.092,0.128,3.98E-24,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,15,Functional,80,912,0.045,EOO,Ar,0.049,0.042,0.055,3.33E-30,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,15,Functional,80,912,0.045,AOO,Ar,0.122,0.111,0.132,9.83E-51,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,3320,Overall,192,1087876,0.045,AOO,uHe,0.013,0.012,0.015,8.66E-57,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,3320,Overall,192,1087876,0.045,EOO,uHe,0.005,0.004,0.005,3.16E-66,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,3320,Overall,192,1087876,0.045,EOO,He,0.026,0.024,0.028,2.21E-93,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,3320,Overall,192,1087876,0.045,EOO,H,0.037,0.035,0.039,1.43E-100,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,3320,Overall,192,1087876,0.045,AOO,He,0.08,0.075,0.084,8.77E-107,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,3320,Overall,192,1087876,0.045,EOO,Ar,0.05,0.047,0.053,9.70E-109,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,3320,Overall,192,1087876,0.045,AOO,H,0.115,0.109,0.12,2.03E-119,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1a,54,3320,Overall,192,1087876,0.045,AOO,Ar,0.157,0.151,0.163,1.24E-152,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,15,Functional,80,912,0.045,AOO,H,0.139,0.12,0.158,0,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,15,Functional,80,912,0.045,AOO,Ho,0.047,0.022,0.072,0,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,6552,Overall,40,48,0.047,AOO,Ho,-0.007,-0.009,-0.004,1.25E-07,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,6552,Overall,40,48,0.047,EOO,Ho,-0.009,-0.012,-0.006,2.97E-09,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,6552,Overall,40,48,0.047,EOO,uHe,0.019,0.014,0.025,3.52E-13,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,6552,Overall,40,48,0.047,EOO,He,0.053,0.044,0.063,2.25E-26,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,6552,Overall,40,48,0.047,EOO,H,0.071,0.059,0.082,2.33E-30,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,6552,Overall,40,48,0.047,AOO,uHe,0.031,0.028,0.035,6.29E-51,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,6552,Overall,40,48,0.047,EOO,Ar,0.146,0.13,0.163,5.07E-53,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,6552,Overall,40,48,0.047,AOO,He,0.076,0.07,0.082,9.84E-93,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,6552,Overall,40,48,0.047,AOO,H,0.098,0.091,0.105,1.48E-104,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2a,94,6552,Overall,40,48,0.047,AOO,Ar,0.184,0.176,0.192,1.33E-179,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,2068,Overall,80,912,0.048,EOO,uHe,0,-0.006,0.005,0.902,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,2068,Overall,80,912,0.048,AOO,uHe,-0.011,-0.022,0.001,0.077,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,2068,Overall,80,912,0.048,EOO,Ho,-0.003,-0.006,0,4.52E-02,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,2068,Overall,80,912,0.048,AOO,Ho,-0.01,-0.017,-0.003,0.004,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,2068,Overall,80,912,0.048,EOO,He,0.032,0.027,0.038,1.02E-23,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,2068,Overall,80,912,0.048,AOO,He,0.075,0.065,0.086,7.86E-29,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,2068,Overall,80,912,0.048,EOO,H,0.044,0.038,0.05,3.86E-30,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,2068,Overall,80,912,0.048,EOO,Ar,0.064,0.058,0.07,5.65E-46,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,2068,Overall,80,912,0.048,AOO,Ar,0.154,0.146,0.161,2.13E-82,yes
+Emu,Dromaius novaehollandiae,Birds,Casuariiformes,Casuariidae,Drom_nova_1b,27,2068,Overall,80,912,0.048,AOO,H,0.104,0.093,0.115,0,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,80,Functional,48,208,0.049,EOO,uHe,0.001,-0.007,0.01,7.40E-01,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,80,Functional,48,208,0.049,AOO,uHe,-0.008,-0.017,0.001,8.19E-02,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,80,Functional,48,208,0.049,EOO,Ho,-0.014,-0.022,-0.005,0.002,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,80,Functional,48,208,0.049,EOO,He,0.02,0.01,0.03,7.13E-05,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,80,Functional,48,208,0.049,AOO,He,0.024,0.013,0.035,1.52E-05,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,80,Functional,48,208,0.049,AOO,Ho,-0.026,-0.035,-0.016,8.91E-08,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,80,Functional,48,208,0.049,EOO,H,0.037,0.026,0.048,3.15E-11,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,80,Functional,48,208,0.049,AOO,H,0.055,0.044,0.066,3.49E-20,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,80,Functional,48,208,0.049,EOO,Ar,0.067,0.058,0.076,7.47E-39,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,80,Functional,48,208,0.049,AOO,Ar,0.123,0.117,0.129,6.34E-169,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,148,3,Functional,136,142284,0.053,AOO,He,0,-0.015,0.014,0.956,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,148,3,Functional,136,142284,0.053,AOO,H,0.004,-0.01,0.017,0.588,no
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,8540,Overall,152,10364,0.053,EOO,Ho,0,0,0,0.518,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,148,3,Functional,136,142284,0.053,AOO,uHe,-0.022,-0.036,-0.007,0.004,no
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,8540,Overall,152,10364,0.053,AOO,Ho,-0.002,-0.003,-0.001,1.26E-06,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,8540,Overall,152,10364,0.053,AOO,uHe,0.011,0.009,0.013,2.86E-33,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,8540,Overall,152,10364,0.053,EOO,uHe,0.005,0.004,0.005,6.40E-62,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,8540,Overall,152,10364,0.053,EOO,He,0.011,0.011,0.012,5.27E-123,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,8540,Overall,152,10364,0.053,EOO,Ar,0.038,0.035,0.04,7.85E-127,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,8540,Overall,152,10364,0.053,EOO,H,0.016,0.015,0.017,3.25E-134,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,8540,Overall,152,10364,0.053,AOO,He,0.04,0.038,0.042,6.36E-170,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,8540,Overall,152,10364,0.053,AOO,Ar,0.137,0.13,0.144,4.35E-193,yes
+Platypus,Ornithorhynchus anatinus,Mammals,Monotremata,Ornithorhynchidae,Orni_anat_2a,135,8540,Overall,152,10364,0.053,AOO,H,0.059,0.056,0.062,2.91E-201,yes
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,148,3,Functional,136,142284,0.053,AOO,Ar,0.045,0.042,0.049,0,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,148,3,Functional,136,142284,0.053,AOO,Ho,0.089,0.074,0.104,0,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,148,3,Functional,136,142284,0.053,EOO,Ar,0.013,0.012,0.014,0,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,148,3,Functional,136,142284,0.053,EOO,H,0.017,0.013,0.021,0,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,148,3,Functional,136,142284,0.053,EOO,Ho,0.02,0.015,0.024,0,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,148,3,Functional,136,142284,0.053,EOO,He,0.014,0.01,0.019,0,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1b,148,3,Functional,136,142284,0.053,EOO,uHe,0.009,0.005,0.013,0,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,9790,Overall,24,92,0.057,AOO,Ho,-0.003,-0.007,0.001,0.1712244,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,9790,Overall,24,92,0.057,EOO,Ho,-0.009,-0.014,-0.004,0.000521182,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,9790,Overall,24,92,0.057,EOO,uHe,-0.063,-0.068,-0.057,2.60E-94,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,9790,Overall,24,92,0.057,EOO,He,-0.064,-0.069,-0.059,3.95E-110,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,9790,Overall,24,92,0.057,AOO,uHe,0.058,0.053,0.062,1.34E-112,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,9790,Overall,24,92,0.057,EOO,H,-0.079,-0.085,-0.073,3.29E-119,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,9790,Overall,24,92,0.057,EOO,Ar,-0.168,-0.18,-0.156,5.56E-131,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,9790,Overall,24,92,0.057,AOO,He,0.07,0.067,0.074,7.02E-216,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,9790,Overall,24,92,0.057,AOO,H,0.093,0.089,0.096,6.02E-298,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,9790,Overall,24,92,0.057,AOO,Ar,0.22,0.216,0.224,0.00E+00,no
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,9075,Overall,48,208,0.06,EOO,Ho,0.001,-0.002,0.003,0.628,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,9075,Overall,48,208,0.06,EOO,uHe,0.015,0.012,0.019,4.19E-18,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,9075,Overall,48,208,0.06,AOO,Ho,0.011,0.009,0.013,3.26E-21,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,9075,Overall,48,208,0.06,EOO,He,0.034,0.027,0.041,2.27E-22,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,9075,Overall,48,208,0.06,EOO,H,0.048,0.04,0.057,1.62E-25,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,9075,Overall,48,208,0.06,EOO,Ar,0.083,0.07,0.096,1.55E-32,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,9075,Overall,48,208,0.06,AOO,uHe,0.031,0.029,0.034,1.21E-74,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,9075,Overall,48,208,0.06,AOO,He,0.063,0.058,0.069,1.64E-76,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,9075,Overall,48,208,0.06,AOO,H,0.09,0.083,0.098,2.34E-91,yes
+Sugar glider,Petaurus breviceps,Mammals,Diprotodontia,Petauridae,Peta_brev_2b,90,9075,Overall,48,208,0.06,AOO,Ar,0.166,0.159,0.174,1.34E-178,yes
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,270,Overall,68,7000,0.069,EOO,Ho,0.026,0.017,0.035,4.64E-08,yes
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,270,Overall,68,7000,0.069,AOO,Ho,0.067,0.046,0.088,3.05E-09,yes
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,270,Overall,68,7000,0.069,EOO,uHe,0.043,0.033,0.052,1.35E-16,yes
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,270,Overall,68,7000,0.069,AOO,uHe,0.109,0.086,0.131,2.56E-18,yes
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,270,Overall,68,7000,0.069,EOO,He,0.073,0.064,0.083,1.07E-35,yes
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,270,Overall,68,7000,0.069,AOO,He,0.182,0.16,0.205,3.44E-38,yes
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,270,Overall,68,7000,0.069,EOO,H,0.125,0.114,0.135,3.21E-62,yes
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,270,Overall,68,7000,0.069,AOO,H,0.309,0.285,0.333,3.72E-67,yes
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,270,Overall,68,7000,0.069,EOO,Ar,0.078,0.074,0.083,3.61E-95,yes
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,270,Overall,68,7000,0.069,AOO,Ar,0.198,0.19,0.206,1.69E-124,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,15009,Overall,80,625484,0.07,EOO,Ho,0.003,-0.005,0.01,0.5026487,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,15009,Overall,80,625484,0.07,AOO,Ho,-0.027,-0.063,0.009,0.1455387,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,15009,Overall,80,625484,0.07,AOO,uHe,0.084,0.043,0.125,0.000108008,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,15009,Overall,80,625484,0.07,EOO,uHe,0.025,0.017,0.033,1.75E-08,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,15009,Overall,80,625484,0.07,AOO,He,0.204,0.162,0.245,2.81E-16,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,15009,Overall,80,625484,0.07,AOO,H,0.262,0.218,0.306,5.73E-21,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,15009,Overall,80,625484,0.07,EOO,He,0.049,0.041,0.056,3.09E-23,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,15009,Overall,80,625484,0.07,EOO,Ar,0.043,0.037,0.049,9.72E-25,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,15009,Overall,80,625484,0.07,EOO,H,0.06,0.052,0.068,6.10E-28,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,15009,Overall,80,625484,0.07,AOO,Ar,0.23,0.208,0.251,3.87E-39,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,8143,Overall,260,44364,0.073,EOO,Ho,0.002,0.001,0.003,2.06E-04,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,8143,Overall,260,44364,0.073,AOO,Ho,0.005,0.003,0.008,1.95E-04,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,8143,Overall,260,44364,0.073,AOO,uHe,0.024,0.023,0.026,9.03E-114,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,8143,Overall,260,44364,0.073,EOO,uHe,0.01,0.01,0.011,2.31E-114,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,8143,Overall,260,44364,0.073,EOO,He,0.035,0.033,0.037,1.20E-161,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,8143,Overall,260,44364,0.073,AOO,He,0.083,0.08,0.087,1.21E-164,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,8143,Overall,260,44364,0.073,EOO,H,0.045,0.043,0.046,1.20E-172,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,8143,Overall,260,44364,0.073,AOO,H,0.106,0.102,0.11,2.13E-177,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,8143,Overall,260,44364,0.073,EOO,Ar,0.063,0.06,0.065,1.71E-194,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,8143,Overall,260,44364,0.073,AOO,Ar,0.155,0.151,0.158,2.93E-271,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,4304,Overall,67,31536,0.076,EOO,Ho,0.003,-0.003,0.008,0.3327443,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,4304,Overall,67,31536,0.076,EOO,uHe,0.008,0.003,0.013,0.0022748,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,4304,Overall,67,31536,0.076,EOO,He,0.022,0.012,0.032,1.18E-05,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,4304,Overall,67,31536,0.076,EOO,H,0.028,0.016,0.04,4.16E-06,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,4304,Overall,67,31536,0.076,EOO,Ar,0.034,0.022,0.047,8.15E-08,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,4304,Overall,67,31536,0.076,AOO,uHe,0.073,0.066,0.08,7.21E-64,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,4304,Overall,67,31536,0.076,AOO,Ho,0.086,0.079,0.093,7.60E-83,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,4304,Overall,67,31536,0.076,AOO,He,0.182,0.173,0.192,1.85E-131,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,4304,Overall,67,31536,0.076,AOO,H,0.228,0.218,0.238,1.06E-152,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,4304,Overall,67,31536,0.076,AOO,Ar,0.256,0.253,0.26,0,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,219,Overall,68,7188,0.081,AOO,He,0.034,0.017,0.051,8.71E-05,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,219,Overall,68,7188,0.081,EOO,uHe,-0.015,-0.021,-0.009,2.00E-06,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,219,Overall,68,7188,0.081,EOO,Ho,-0.014,-0.019,-0.009,4.34E-08,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,219,Overall,68,7188,0.081,EOO,He,0.02,0.014,0.027,1.74E-08,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,219,Overall,68,7188,0.081,AOO,uHe,-0.05,-0.063,-0.036,8.97E-12,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,219,Overall,68,7188,0.081,AOO,Ho,-0.043,-0.054,-0.032,4.73E-13,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,219,Overall,68,7188,0.081,AOO,H,0.14,0.121,0.159,8.14E-35,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,219,Overall,68,7188,0.081,EOO,H,0.063,0.055,0.07,5.76E-42,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,219,Overall,68,7188,0.081,EOO,Ar,0.068,0.063,0.074,4.37E-64,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,219,Overall,68,7188,0.081,AOO,Ar,0.178,0.168,0.187,3.88E-95,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,73,Functional,260,44364,0.085,EOO,Ho,0.003,0,0.006,4.44E-02,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,73,Functional,260,44364,0.085,AOO,Ho,0.012,0.005,0.019,7.26E-04,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,73,Functional,260,44364,0.085,AOO,uHe,0.021,0.016,0.026,1.45E-14,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,73,Functional,260,44364,0.085,EOO,uHe,0.009,0.007,0.011,1.70E-15,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,73,Functional,260,44364,0.085,AOO,He,0.079,0.073,0.085,1.21E-85,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,73,Functional,260,44364,0.085,EOO,He,0.034,0.031,0.036,9.75E-87,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,73,Functional,260,44364,0.085,EOO,H,0.042,0.039,0.044,3.32E-104,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,73,Functional,260,44364,0.085,AOO,H,0.099,0.092,0.105,1.89E-104,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,73,Functional,260,44364,0.085,EOO,Ar,0.05,0.048,0.051,1.32E-190,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1a,74,73,Functional,260,44364,0.085,AOO,Ar,0.121,0.117,0.124,1.76E-231,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,44,Functional,8,8,0.0909,AOO,uHe,0.008302853,-0.001875209,0.01848091,0.1094534,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,44,Functional,8,8,0.0909,EOO,uHe,0.008302853,-0.001875209,0.01848091,0.1094534,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,44,Functional,8,8,0.0909,AOO,Ho,0.03201298,0.004062529,0.05996343,0.02492896,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,44,Functional,8,8,0.0909,EOO,Ho,0.03201298,0.004062529,0.05996343,0.02492896,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,44,Functional,8,8,0.0909,AOO,He,0.0448588,0.02697985,0.06273776,1.3407E-06,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,44,Functional,8,8,0.0909,EOO,He,0.0448588,0.02697985,0.06273776,1.3407E-06,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,44,Functional,8,8,0.0909,AOO,H,0.07336267,0.05312093,0.09360442,8.03926E-12,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,44,Functional,8,8,0.0909,EOO,H,0.07336267,0.05312093,0.09360442,8.03926E-12,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,44,Functional,8,8,0.0909,AOO,Ar,0.09317427,0.07224647,0.1141021,1.71448E-16,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2b,48,44,Functional,8,8,0.0909,EOO,Ar,0.09317427,0.07224647,0.1141021,1.71448E-16,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,1588,Overall,196,148384,0.098,EOO,Ho,0.007,0.004,0.01,6.02E-05,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,1588,Overall,196,148384,0.098,EOO,uHe,0.012,0.01,0.014,2.24E-19,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,1588,Overall,196,148384,0.098,EOO,He,0.033,0.028,0.037,1.43E-43,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,1588,Overall,196,148384,0.098,AOO,Ho,0.064,0.056,0.072,1.23E-43,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,1588,Overall,196,148384,0.098,EOO,H,0.043,0.038,0.048,1.21E-52,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,1588,Overall,196,148384,0.098,EOO,Ar,0.046,0.042,0.05,1.90E-65,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,1588,Overall,196,148384,0.098,AOO,uHe,0.063,0.058,0.068,5.42E-79,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,1588,Overall,196,148384,0.098,AOO,He,0.138,0.132,0.145,8.29E-141,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,1588,Overall,196,148384,0.098,AOO,H,0.175,0.167,0.182,6.30E-163,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,1588,Overall,196,148384,0.098,AOO,Ar,0.179,0.174,0.184,5.17E-219,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,76,Functional,16,4,0.104,EOO,He,0.01431983,-0.02154166,0.05018131,0.4331288,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,76,Functional,16,4,0.104,AOO,He,0.01758693,-0.01673692,0.05191078,0.3145983,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,76,Functional,16,4,0.104,EOO,uHe,-0.02086345,-0.05734041,0.01561351,0.2616838,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,76,Functional,16,4,0.104,AOO,uHe,-0.02112714,-0.05604838,0.01379411,0.2351662,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,76,Functional,16,4,0.104,EOO,H,0.05917204,0.02541308,0.09293101,0.000620784,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,76,Functional,16,4,0.104,AOO,H,0.06860558,0.03645405,0.1007571,3.25012E-05,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,76,Functional,16,4,0.104,EOO,Ho,-0.05408122,-0.07456532,-0.03359712,3.07215E-07,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,76,Functional,16,4,0.104,AOO,Ho,-0.05875723,-0.07822409,-0.03929036,5.53973E-09,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,76,Functional,16,4,0.104,EOO,Ar,0.1247262,0.1107294,0.138723,2.75768E-54,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_2a,87,76,Functional,16,4,0.104,AOO,Ar,0.1411705,0.1294425,0.1528986,1.74361E-84,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,13596,Overall,120,2696,0.121,EOO,Ho,0.006,0.005,0.006,5.75E-45,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,13596,Overall,120,2696,0.121,AOO,Ho,0.02,0.018,0.021,3.59E-132,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,13596,Overall,120,2696,0.121,EOO,He,0.025,0.024,0.026,1.59E-273,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,13596,Overall,120,2696,0.121,EOO,H,0.036,0.034,0.037,2.52E-302,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,13596,Overall,120,2696,0.121,AOO,Ar,0.142,0.138,0.145,0.00E+00,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,13596,Overall,120,2696,0.121,AOO,H,0.092,0.089,0.094,0.00E+00,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,13596,Overall,120,2696,0.121,AOO,He,0.064,0.063,0.066,0.00E+00,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,13596,Overall,120,2696,0.121,AOO,uHe,0.048,0.047,0.049,0.00E+00,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,13596,Overall,120,2696,0.121,EOO,Ar,0.061,0.059,0.063,0.00E+00,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,13596,Overall,120,2696,0.121,EOO,uHe,0.019,0.018,0.02,0.00E+00,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,361,Overall,84,11544,0.122,AOO,Ho,-0.002,-0.021,0.018,0.8483219,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,361,Overall,84,11544,0.122,EOO,Ho,0.008,0.001,0.015,0.03207683,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,361,Overall,84,11544,0.122,AOO,uHe,0.07,0.041,0.1,3.24E-06,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,361,Overall,84,11544,0.122,EOO,uHe,0.04,0.029,0.05,2.42E-13,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,361,Overall,84,11544,0.122,AOO,He,0.127,0.099,0.155,4.42E-17,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,361,Overall,84,11544,0.122,EOO,He,0.059,0.049,0.069,1.70E-28,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,361,Overall,84,11544,0.122,AOO,H,0.261,0.233,0.289,2.91E-53,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,361,Overall,84,11544,0.122,EOO,H,0.106,0.097,0.115,7.40E-73,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,361,Overall,84,11544,0.122,AOO,Ar,0.204,0.193,0.216,7.69E-114,yes
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,361,Overall,84,11544,0.122,EOO,Ar,0.077,0.073,0.081,1.89E-130,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,4,Functional,44,445732,0.1248,AOO,Ho,0.023,-0.026,0.072,0.3529533,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,4,Functional,44,445732,0.1248,EOO,Ho,0.006,-0.002,0.014,0.1148991,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,4,Functional,44,445732,0.1248,AOO,uHe,0.070,0.037,0.102,3.01749E-05,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,4,Functional,44,445732,0.1248,EOO,uHe,0.012,0.007,0.017,1.58174E-05,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,4,Functional,44,445732,0.1248,AOO,He,0.111,0.078,0.144,1.87648E-10,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,4,Functional,44,445732,0.1248,EOO,He,0.018,0.013,0.024,1.38463E-10,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,4,Functional,44,445732,0.1248,AOO,H,0.132,0.101,0.164,3.76495E-15,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,4,Functional,44,445732,0.1248,EOO,H,0.022,0.017,0.027,2.11491E-15,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,4,Functional,44,445732,0.1248,EOO,Ar,0.015,0.013,0.016,4.03561E-43,yes
+Australian white ibis,Threskiornis molucca,Birds,Pelecaniformes,Threskiornithidae,Thre_molu_1,68,4,Functional,44,445732,0.1248,AOO,Ar,0.089,0.078,0.100,1.18866E-43,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,3424,Overall,260,5940072,0.126,EOO,Ho,-0.001,-0.004,0.001,3.15E-01,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,3424,Overall,260,5940072,0.126,AOO,Ho,0.025,0.016,0.034,9.94E-08,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,3424,Overall,260,5940072,0.126,EOO,uHe,0.01,0.006,0.014,5.77E-08,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,3424,Overall,260,5940072,0.126,AOO,uHe,0.067,0.057,0.077,1.71E-34,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,3424,Overall,260,5940072,0.126,EOO,He,0.03,0.026,0.035,6.14E-37,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,3424,Overall,260,5940072,0.126,EOO,H,0.041,0.036,0.046,1.39E-45,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,3424,Overall,260,5940072,0.126,EOO,Ar,0.039,0.035,0.042,2.41E-71,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,3424,Overall,260,5940072,0.126,AOO,He,0.134,0.124,0.145,4.84E-90,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,3424,Overall,260,5940072,0.126,AOO,H,0.176,0.165,0.187,1.04E-111,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,3424,Overall,260,5940072,0.126,AOO,Ar,0.164,0.159,0.169,6.07E-234,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,10865,Overall,168,125536,0.127,EOO,Ho,0.004,0.001,0.006,0.004861378,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,10865,Overall,168,125536,0.127,AOO,Ho,0.034,0.026,0.041,7.42E-19,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,10865,Overall,168,125536,0.127,EOO,Ar,0.049,0.043,0.054,1.64E-51,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,10865,Overall,168,125536,0.127,EOO,uHe,0.019,0.017,0.021,2.22E-52,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,10865,Overall,168,125536,0.127,AOO,uHe,0.059,0.052,0.065,7.99E-55,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,10865,Overall,168,125536,0.127,EOO,He,0.033,0.03,0.037,1.54E-62,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,10865,Overall,168,125536,0.127,EOO,H,0.049,0.045,0.054,1.47E-70,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,10865,Overall,168,125536,0.127,AOO,He,0.116,0.107,0.125,1.35E-88,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,10865,Overall,168,125536,0.127,AOO,H,0.18,0.168,0.191,2.09E-118,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,10865,Overall,168,125536,0.127,AOO,Ar,0.209,0.198,0.221,5.05E-140,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,64,Functional,12,8,0.1288,AOO,Ho,0.353,0.308,0.398,3.48352E-41,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,64,Functional,12,8,0.1288,EOO,Ho,0.353,0.308,0.398,3.48352E-41,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,64,Functional,12,8,0.1288,AOO,Ar,0.211,0.184,0.237,1.59359E-42,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,64,Functional,12,8,0.1288,EOO,Ar,0.211,0.184,0.237,1.59359E-42,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,64,Functional,12,8,0.1288,AOO,uHe,0.391,0.346,0.436,4.70679E-47,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,64,Functional,12,8,0.1288,EOO,uHe,0.391,0.346,0.436,4.70679E-47,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,64,Functional,12,8,0.1288,AOO,H,0.438,0.390,0.487,3.2861E-50,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,64,Functional,12,8,0.1288,EOO,H,0.438,0.390,0.487,3.2861E-50,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,64,Functional,12,8,0.1288,AOO,He,0.456,0.405,0.506,1.88343E-50,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2b,56,64,Functional,12,8,0.1288,EOO,He,0.456,0.405,0.506,1.88343E-50,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,88,Functional,48,233564,0.133,AOO,uHe,0.011,0.001,0.021,3.39E-02,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,88,Functional,48,233564,0.133,AOO,Ho,0.014,0.004,0.025,6.37E-03,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,88,Functional,48,233564,0.133,EOO,Ho,0.004,0.001,0.006,2.25E-03,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,88,Functional,48,233564,0.133,AOO,He,0.032,0.019,0.045,9.35E-07,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,88,Functional,48,233564,0.133,EOO,uHe,0.006,0.004,0.008,4.02E-07,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,88,Functional,48,233564,0.133,AOO,H,0.05,0.035,0.065,1.01E-10,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,88,Functional,48,233564,0.133,EOO,He,0.01,0.007,0.013,5.63E-12,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,88,Functional,48,233564,0.133,EOO,H,0.014,0.01,0.017,2.92E-15,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,88,Functional,48,233564,0.133,EOO,Ar,0.019,0.016,0.022,9.88E-34,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,88,Functional,48,233564,0.133,AOO,Ar,0.083,0.07,0.095,2.72E-34,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,55,Functional,20,4,0.1341,AOO,Ho,0.011,-0.032,0.054,0.6035989,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,55,Functional,20,4,0.1341,EOO,Ho,0.043,0.001,0.086,0.0454556,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,55,Functional,20,4,0.1341,AOO,uHe,0.080,0.025,0.134,0.004125101,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,55,Functional,20,4,0.1341,EOO,uHe,0.106,0.052,0.159,0.000126586,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,55,Functional,20,4,0.1341,AOO,He,0.132,0.081,0.183,6.19597E-07,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,55,Functional,20,4,0.1341,EOO,He,0.147,0.096,0.198,2.39473E-08,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,55,Functional,20,4,0.1341,EOO,H,0.200,0.153,0.247,6.10112E-16,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,55,Functional,20,4,0.1341,AOO,H,0.205,0.158,0.252,1.18921E-16,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,55,Functional,20,4,0.1341,EOO,Ar,0.189,0.170,0.208,3.12464E-61,yes
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_2a,74,55,Functional,20,4,0.1341,AOO,Ar,0.238,0.225,0.252,2.8798E-128,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,4465,Overall,624,59704,0.14,EOO,Ho,-0.002,-0.003,-0.001,3.67E-05,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,4465,Overall,624,59704,0.14,AOO,Ho,-0.007,-0.01,-0.005,3.62E-11,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,4465,Overall,624,59704,0.14,AOO,uHe,0.03,0.028,0.032,3.08E-178,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,4465,Overall,624,59704,0.14,EOO,uHe,0.016,0.016,0.017,2.39E-237,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,4465,Overall,624,59704,0.14,AOO,Ar,0.128,0.126,0.13,0.00E+00,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,4465,Overall,624,59704,0.14,AOO,H,0.082,0.079,0.085,0.00E+00,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,4465,Overall,624,59704,0.14,AOO,He,0.057,0.055,0.059,0.00E+00,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,4465,Overall,624,59704,0.14,EOO,Ar,0.063,0.062,0.063,0.00E+00,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,4465,Overall,624,59704,0.14,EOO,H,0.042,0.041,0.043,0.00E+00,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,4465,Overall,624,59704,0.14,EOO,He,0.03,0.029,0.031,0.00E+00,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,4344,Overall,292,538224,0.141,AOO,Ar,0.163,0.159,0.166,5.550729e-319,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,4344,Overall,292,538224,0.141,EOO,Ho,0,-0.003,0.004,0.7684028,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,4344,Overall,292,538224,0.141,AOO,Ho,0.021,0.014,0.027,3.99E-09,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,4344,Overall,292,538224,0.141,EOO,uHe,0.019,0.017,0.021,2.33E-46,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,4344,Overall,292,538224,0.141,AOO,uHe,0.048,0.043,0.053,2.55E-61,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,4344,Overall,292,538224,0.141,EOO,He,0.042,0.039,0.045,1.30E-100,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,4344,Overall,292,538224,0.141,AOO,He,0.101,0.094,0.107,5.01E-118,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,4344,Overall,292,538224,0.141,EOO,H,0.057,0.053,0.06,3.00E-120,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,4344,Overall,292,538224,0.141,EOO,Ar,0.061,0.057,0.064,1.13E-127,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,4344,Overall,292,538224,0.141,AOO,H,0.136,0.129,0.143,5.56E-146,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,4717,Overall,684,258248,0.148,AOO,He,0.056,0.053,0.058,2.825611e-316,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,4717,Overall,684,258248,0.148,AOO,Ho,-0.001,-0.002,0.001,0.2675852,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,4717,Overall,684,258248,0.148,EOO,Ho,0,-0.001,0,0.244736,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,4717,Overall,684,258248,0.148,AOO,uHe,0.041,0.039,0.043,2.29E-240,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,4717,Overall,684,258248,0.148,AOO,Ar,0.117,0.115,0.118,0,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,4717,Overall,684,258248,0.148,AOO,H,0.075,0.072,0.078,0,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,4717,Overall,684,258248,0.148,EOO,Ar,0.056,0.055,0.058,0,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,4717,Overall,684,258248,0.148,EOO,H,0.043,0.042,0.044,0,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,4717,Overall,684,258248,0.148,EOO,He,0.033,0.032,0.034,0,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,4717,Overall,684,258248,0.148,EOO,uHe,0.025,0.024,0.026,0,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,141,Functional,108,10480,0.153,AOO,uHe,0.032,-0.002,0.067,0.067,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,141,Functional,108,10480,0.153,EOO,Ho,-0.009,-0.017,0,0.044,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,141,Functional,108,10480,0.153,EOO,uHe,0.012,0.001,0.023,0.031,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,141,Functional,108,10480,0.153,AOO,Ho,-0.041,-0.068,-0.014,0.003,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,141,Functional,108,10480,0.153,EOO,He,0.022,0.011,0.033,5.27E-05,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,141,Functional,108,10480,0.153,AOO,He,0.073,0.038,0.107,4.08E-05,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,141,Functional,108,10480,0.153,EOO,H,0.035,0.025,0.045,6.58E-11,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,141,Functional,108,10480,0.153,AOO,H,0.119,0.086,0.153,4.05E-12,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,141,Functional,108,10480,0.153,EOO,Ar,0.045,0.042,0.048,1.45E-126,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,141,Functional,108,10480,0.153,AOO,Ar,0.152,0.144,0.16,2.01E-153,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,12026,Overall,48,233564,0.155,EOO,Ho,0.008,0.005,0.011,1.37E-06,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,12026,Overall,48,233564,0.155,AOO,Ho,0.046,0.033,0.059,1.12E-11,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,12026,Overall,48,233564,0.155,EOO,uHe,0.011,0.009,0.013,4.25E-20,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,12026,Overall,48,233564,0.155,AOO,uHe,0.049,0.039,0.058,4.43E-21,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,12026,Overall,48,233564,0.155,EOO,He,0.015,0.012,0.018,1.08E-22,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,12026,Overall,48,233564,0.155,AOO,He,0.07,0.057,0.082,2.55E-25,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,12026,Overall,48,233564,0.155,EOO,H,0.02,0.016,0.023,1.84E-27,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,12026,Overall,48,233564,0.155,AOO,H,0.091,0.076,0.105,7.65E-31,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,12026,Overall,48,233564,0.155,EOO,Ar,0.028,0.025,0.031,3.94E-63,yes
+Common wombat,Vombatus ursinus,Mammals,Diprotodontia,Vombatidae,Vomb_ursi_1b,77,12026,Overall,48,233564,0.155,AOO,Ar,0.132,0.121,0.144,5.08E-77,yes
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,18971,Overall,24,512,0.16,EOO,Ho,0.159,0.134,0.183,4.55E-31,yes
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,18971,Overall,24,512,0.16,EOO,uHe,0.185,0.16,0.209,1.32E-40,yes
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,18971,Overall,24,512,0.16,EOO,He,0.191,0.167,0.215,1.59E-43,yes
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,18971,Overall,24,512,0.16,EOO,H,0.215,0.188,0.241,9.68E-46,yes
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,18971,Overall,24,512,0.16,AOO,Ho,0.466,0.411,0.522,3.78E-48,yes
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,18971,Overall,24,512,0.16,AOO,uHe,0.515,0.46,0.57,1.36E-56,yes
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,18971,Overall,24,512,0.16,AOO,He,0.53,0.476,0.584,2.53E-60,yes
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,18971,Overall,24,512,0.16,AOO,H,0.596,0.538,0.655,5.64E-64,yes
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,18971,Overall,24,512,0.16,EOO,Ar,0.116,0.109,0.123,4.04E-110,yes
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,18971,Overall,24,512,0.16,AOO,Ar,0.311,0.297,0.325,1.17E-165,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,871,Overall,180,10840,0.166,AOO,Ho,0.017,0.008,0.026,3.23E-04,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,871,Overall,180,10840,0.166,EOO,Ho,0.006,0.003,0.01,2.21E-04,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,871,Overall,180,10840,0.166,EOO,uHe,0.018,0.013,0.023,2.56E-12,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,871,Overall,180,10840,0.166,AOO,uHe,0.061,0.048,0.074,7.13E-19,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,871,Overall,180,10840,0.166,EOO,He,0.046,0.04,0.053,3.04E-35,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,871,Overall,180,10840,0.166,EOO,H,0.054,0.047,0.061,2.41E-38,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,871,Overall,180,10840,0.166,AOO,He,0.146,0.131,0.16,4.39E-55,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,871,Overall,180,10840,0.166,AOO,H,0.169,0.153,0.185,1.02E-60,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,871,Overall,180,10840,0.166,EOO,Ar,0.055,0.051,0.059,3.87E-86,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,871,Overall,180,10840,0.166,AOO,Ar,0.161,0.155,0.168,1.39E-141,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,255,Functional,24,92,0.204,EOO,Ho,-0.018,-0.047,0.011,0.2142983,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,255,Functional,24,92,0.204,AOO,Ho,0.094,0.07,0.118,3.54E-14,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,255,Functional,24,92,0.204,EOO,Ar,-0.047,-0.055,-0.038,8.39E-26,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,255,Functional,24,92,0.204,EOO,He,-0.217,-0.25,-0.184,1.07E-35,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,255,Functional,24,92,0.204,EOO,uHe,-0.216,-0.248,-0.184,1.32E-36,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,255,Functional,24,92,0.204,EOO,H,-0.212,-0.242,-0.182,1.57E-39,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,255,Functional,24,92,0.204,AOO,uHe,0.297,0.273,0.322,4.23E-103,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,255,Functional,24,92,0.204,AOO,He,0.31,0.285,0.335,2.04E-109,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,255,Functional,24,92,0.204,AOO,H,0.299,0.276,0.321,1.67E-119,no
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1b,200,255,Functional,24,92,0.204,AOO,Ar,0.092,0.087,0.098,2.62E-164,no
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,12,Functional,72,270228,0.2105,EOO,Ho,0.087,0.066,0.108,2.5817E-13,yes
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,12,Functional,72,270228,0.2105,EOO,uHe,0.071,0.059,0.084,5.98224E-21,yes
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,12,Functional,72,270228,0.2105,AOO,Ho,0.398,0.330,0.465,3.31679E-21,yes
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,12,Functional,72,270228,0.2105,AOO,uHe,0.279,0.233,0.324,1.39809E-22,yes
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,12,Functional,72,270228,0.2105,EOO,He,0.100,0.087,0.114,1.48349E-28,yes
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,12,Functional,72,270228,0.2105,AOO,He,0.383,0.333,0.433,2.7032E-29,yes
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,12,Functional,72,270228,0.2105,AOO,H,0.386,0.337,0.435,1.11396E-30,yes
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,12,Functional,72,270228,0.2105,EOO,H,0.102,0.089,0.114,1.02014E-30,yes
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,12,Functional,72,270228,0.2105,EOO,Ar,0.040,0.036,0.044,6.57375E-41,yes
+Eastern rosella,Platycercus eximius,Birds,Psittaciformes,Psittacidae,Plat_exim_1,22,12,Functional,72,270228,0.2105,AOO,Ar,0.155,0.141,0.168,2.1308E-44,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,17800,Overall,440,5615648,0.251,AOO,Ar,0.169,0.164,0.174,9.881313e-324,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,17800,Overall,440,5615648,0.251,AOO,Ho,0.004,-0.005,0.014,0.395,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,17800,Overall,440,5615648,0.251,EOO,Ho,0.011,0.007,0.015,5.23E-08,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,17800,Overall,440,5615648,0.251,EOO,uHe,0.051,0.048,0.054,1.32E-137,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,17800,Overall,440,5615648,0.251,EOO,Ar,0.059,0.055,0.062,6.03E-157,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,17800,Overall,440,5615648,0.251,EOO,He,0.072,0.069,0.076,1.42E-189,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,17800,Overall,440,5615648,0.251,AOO,uHe,0.137,0.131,0.144,8.37E-194,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,17800,Overall,440,5615648,0.251,EOO,H,0.101,0.097,0.105,7.71E-233,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,17800,Overall,440,5615648,0.251,AOO,He,0.188,0.181,0.195,1.72E-245,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,17800,Overall,440,5615648,0.251,AOO,H,0.266,0.259,0.273,0.00E+00,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,2385,Overall,56,12212,0.259,EOO,Ho,-0.001,-0.005,0.004,0.7571198,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,2385,Overall,56,12212,0.259,AOO,Ho,-0.024,-0.037,-0.011,0.000354497,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,2385,Overall,56,12212,0.259,EOO,uHe,0.037,0.029,0.045,2.51E-16,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,2385,Overall,56,12212,0.259,AOO,uHe,0.131,0.11,0.153,7.10E-24,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,2385,Overall,56,12212,0.259,EOO,He,0.071,0.062,0.079,2.38E-35,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,2385,Overall,56,12212,0.259,AOO,He,0.233,0.21,0.255,1.28E-46,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,2385,Overall,56,12212,0.259,EOO,H,0.099,0.09,0.108,4.89E-48,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,2385,Overall,56,12212,0.259,EOO,Ar,0.052,0.048,0.056,9.84E-57,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,2385,Overall,56,12212,0.259,AOO,H,0.317,0.294,0.34,2.62E-60,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,2385,Overall,56,12212,0.259,AOO,Ar,0.165,0.155,0.175,1.38E-71,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,9883,Overall,108,10480,0.269,AOO,uHe,0.031,-0.001,0.064,0.059,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,9883,Overall,108,10480,0.269,EOO,Ho,-0.01,-0.018,-0.001,0.025,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,9883,Overall,108,10480,0.269,EOO,uHe,0.013,0.002,0.023,0.015,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,9883,Overall,108,10480,0.269,AOO,Ho,-0.039,-0.066,-0.012,0.005,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,9883,Overall,108,10480,0.269,AOO,He,0.071,0.039,0.104,2.08E-05,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,9883,Overall,108,10480,0.269,EOO,He,0.023,0.013,0.033,1.13E-05,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,9883,Overall,108,10480,0.269,EOO,H,0.033,0.024,0.043,4.60E-11,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,9883,Overall,108,10480,0.269,AOO,H,0.111,0.079,0.142,1.17E-11,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,9883,Overall,108,10480,0.269,EOO,Ar,0.054,0.051,0.057,5.46E-153,yes
+Southern greater glider,Petauroides volans,Mammals,Diprotodontia,Pseudocheiridae,Peta_vola_1,85,9883,Overall,108,10480,0.269,AOO,Ar,0.182,0.174,0.189,5.29E-188,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,340,Functional,440,5615648,0.274,AOO,Ho,0.014,0.004,0.024,0.006,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,340,Functional,440,5615648,0.274,EOO,Ho,0.011,0.007,0.015,4.64E-08,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,340,Functional,440,5615648,0.274,EOO,uHe,0.05,0.046,0.055,4.83E-72,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,340,Functional,440,5615648,0.274,EOO,He,0.072,0.067,0.077,1.48E-110,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,340,Functional,440,5615648,0.274,AOO,uHe,0.15,0.14,0.161,3.89E-121,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,340,Functional,440,5615648,0.274,EOO,H,0.098,0.092,0.104,2.95E-149,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,340,Functional,440,5615648,0.274,AOO,He,0.202,0.191,0.212,1.02E-166,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,340,Functional,440,5615648,0.274,EOO,Ar,0.058,0.055,0.061,2.15E-173,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,340,Functional,440,5615648,0.274,AOO,H,0.27,0.259,0.28,1.40E-230,yes
+Children's python,Antaresia childreni,Reptiles,Squamata,Pythonidae,Anta_chil_1,122,340,Functional,440,5615648,0.274,AOO,Ar,0.166,0.162,0.17,0.00E+00,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,105,88662,Overall,128,224392,0.281,EOO,Ho,0.009,0.007,0.012,4.25E-16,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,105,88662,Overall,128,224392,0.281,AOO,Ho,0.051,0.044,0.058,1.27E-39,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,105,88662,Overall,128,224392,0.281,EOO,uHe,0.039,0.036,0.041,4.57E-128,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,105,88662,Overall,128,224392,0.281,EOO,He,0.049,0.047,0.052,2.79E-149,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,105,88662,Overall,128,224392,0.281,EOO,H,0.061,0.058,0.064,3.64E-165,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,105,88662,Overall,128,224392,0.281,AOO,uHe,0.151,0.144,0.158,1.06E-190,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,105,88662,Overall,128,224392,0.281,AOO,He,0.189,0.181,0.196,2.44E-219,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,105,88662,Overall,128,224392,0.281,EOO,Ar,0.045,0.043,0.046,4.83E-233,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,105,88662,Overall,128,224392,0.281,AOO,H,0.234,0.226,0.242,2.38E-252,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,105,88662,Overall,128,224392,0.281,AOO,Ar,0.165,0.161,0.169,0.00E+00,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,28,7,Functional,88,362444,0.2944,EOO,uHe,0.025,-0.005,0.056,0.1033673,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,28,7,Functional,88,362444,0.2944,AOO,uHe,0.147,0.034,0.260,0.01082223,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,28,7,Functional,88,362444,0.2944,EOO,Ho,-0.044,-0.073,-0.015,0.00348588,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,28,7,Functional,88,362444,0.2944,AOO,Ho,-0.170,-0.280,-0.060,0.002637789,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,28,7,Functional,88,362444,0.2944,EOO,He,0.051,0.021,0.082,0.001118827,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,28,7,Functional,88,362444,0.2944,AOO,He,0.242,0.130,0.354,3.35202E-05,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,28,7,Functional,88,362444,0.2944,EOO,H,0.070,0.040,0.100,8.3466E-06,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,28,7,Functional,88,362444,0.2944,AOO,H,0.319,0.211,0.427,3.14545E-08,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,28,7,Functional,88,362444,0.2944,EOO,Ar,0.042,0.034,0.050,4.26656E-18,yes
+Pale-headed rosella,Platycercus adscitus,Birds,Psittaciformes,Psittacidae,Plat_adsc_1,28,7,Functional,88,362444,0.2944,AOO,Ar,0.183,0.156,0.211,9.11778E-27,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,27664,Overall,292,6154720,0.3,AOO,Ho,0.002,-0.008,0.013,6.63E-01,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,27664,Overall,292,6154720,0.3,EOO,Ho,0.001,-0.002,0.005,5.63E-01,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,27664,Overall,292,6154720,0.3,AOO,uHe,0.093,0.08,0.107,9.51E-37,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,27664,Overall,292,6154720,0.3,EOO,uHe,0.036,0.032,0.04,2.37E-50,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,27664,Overall,292,6154720,0.3,AOO,He,0.164,0.15,0.177,8.86E-79,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,27664,Overall,292,6154720,0.3,EOO,He,0.06,0.055,0.064,1.17E-103,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,27664,Overall,292,6154720,0.3,AOO,H,0.23,0.216,0.243,9.50E-120,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,27664,Overall,292,6154720,0.3,EOO,Ar,0.048,0.045,0.051,1.69E-120,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,27664,Overall,292,6154720,0.3,EOO,H,0.081,0.076,0.085,1.35E-146,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,27664,Overall,292,6154720,0.3,AOO,Ar,0.161,0.156,0.167,2.07E-207,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,48,Functional,624,59704,0.3194,EOO,Ho,0.006,0.004,0.008,5.51084E-10,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,48,Functional,624,59704,0.3194,AOO,Ho,0.015,0.011,0.019,6.22634E-14,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,48,Functional,624,59704,0.3194,AOO,uHe,0.088,0.084,0.092,1.3915E-276,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,48,Functional,624,59704,0.3194,EOO,uHe,0.043,0.041,0.045,1.2915E-276,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,48,Functional,624,59704,0.3194,AOO,Ar,0.084,0.082,0.085,0,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,48,Functional,624,59704,0.3194,AOO,H,0.123,0.120,0.127,0,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,48,Functional,624,59704,0.3194,AOO,He,0.114,0.110,0.118,0,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,48,Functional,624,59704,0.3194,EOO,Ar,0.042,0.041,0.042,0,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,48,Functional,624,59704,0.3194,EOO,H,0.061,0.060,0.063,0,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2b,239,48,Functional,624,59704,0.3194,EOO,He,0.056,0.054,0.058,0,yes
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,10495,Overall,100,249456,0.341,AOO,Ho,0.161,0.113,0.209,4.68E-10,yes
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,10495,Overall,100,249456,0.341,EOO,Ho,0.046,0.033,0.059,4.00E-11,yes
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,10495,Overall,100,249456,0.341,AOO,uHe,0.239,0.198,0.28,8.04E-23,yes
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,10495,Overall,100,249456,0.341,EOO,uHe,0.067,0.056,0.078,1.41E-24,yes
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,10495,Overall,100,249456,0.341,AOO,He,0.325,0.285,0.364,4.35E-36,yes
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,10495,Overall,100,249456,0.341,EOO,He,0.09,0.08,0.101,6.79E-39,yes
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,10495,Overall,100,249456,0.341,AOO,H,0.386,0.348,0.425,2.02E-45,yes
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,10495,Overall,100,249456,0.341,EOO,H,0.107,0.097,0.117,4.49E-48,yes
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,10495,Overall,100,249456,0.341,EOO,Ar,0.047,0.043,0.051,2.06E-50,yes
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,10495,Overall,100,249456,0.341,AOO,Ar,0.185,0.174,0.197,3.34E-73,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,101,281,Functional,124,224392,0.3613,EOO,Ho,0.013,0.010,0.016,1.30915E-19,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,101,281,Functional,124,224392,0.3613,AOO,Ho,0.062,0.053,0.071,4.31306E-35,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,101,281,Functional,124,224392,0.3613,EOO,uHe,0.057,0.054,0.060,4.2131E-180,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,101,281,Functional,124,224392,0.3613,EOO,He,0.068,0.065,0.071,1.4023E-189,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,101,281,Functional,124,224392,0.3613,EOO,H,0.076,0.073,0.080,3.3759E-190,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,101,281,Functional,124,224392,0.3613,EOO,Ar,0.042,0.040,0.043,1.6627E-220,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,101,281,Functional,124,224392,0.3613,AOO,uHe,0.215,0.207,0.222,1.2892E-242,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,101,281,Functional,124,224392,0.3613,AOO,He,0.255,0.246,0.263,1.1943E-253,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,101,281,Functional,124,224392,0.3613,AOO,H,0.291,0.283,0.299,7.4303E-285,yes
+Brush-tailed rock-wallaby,Petrogale penicillata,Mammals,Diprotodontia,Macropodidae,Petr_peni_1,101,281,Functional,124,224392,0.3613,AOO,Ar,0.160,0.157,0.162,0,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,39304,Overall,416,441368,0.363,EOO,Ho,0.006,0.004,0.008,1.59E-09,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,39304,Overall,416,441368,0.363,AOO,Ho,-0.02,-0.025,-0.015,3.30E-15,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,39304,Overall,416,441368,0.363,AOO,uHe,0.044,0.036,0.052,3.92E-25,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,39304,Overall,416,441368,0.363,AOO,He,0.056,0.047,0.065,1.59E-34,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,39304,Overall,416,441368,0.363,AOO,H,0.072,0.063,0.082,3.65E-49,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,39304,Overall,416,441368,0.363,AOO,Ar,0.08,0.073,0.087,6.20E-99,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,39304,Overall,416,441368,0.363,EOO,uHe,0.041,0.038,0.044,6.68E-154,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,39304,Overall,416,441368,0.363,EOO,He,0.047,0.044,0.05,5.04E-172,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,39304,Overall,416,441368,0.363,EOO,H,0.054,0.051,0.057,6.88E-203,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,39304,Overall,416,441368,0.363,EOO,Ar,0.048,0.046,0.051,5.22E-289,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,17,Functional,196,148384,0.3972,EOO,Ho,0.045,0.031,0.059,1.48908E-09,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,17,Functional,196,148384,0.3972,EOO,uHe,0.051,0.038,0.065,5.64457E-13,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,17,Functional,196,148384,0.3972,EOO,He,0.073,0.058,0.088,8.94385E-20,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,17,Functional,196,148384,0.3972,EOO,H,0.080,0.066,0.094,2.13262E-24,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,17,Functional,196,148384,0.3972,AOO,Ho,0.266,0.230,0.301,8.95399E-40,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,17,Functional,196,148384,0.3972,EOO,Ar,0.044,0.039,0.049,7.13195E-47,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,17,Functional,196,148384,0.3972,AOO,uHe,0.298,0.267,0.329,2.97847E-57,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,17,Functional,196,148384,0.3972,AOO,He,0.376,0.345,0.408,2.02589E-76,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,17,Functional,196,148384,0.3972,AOO,H,0.387,0.358,0.417,7.62163E-86,yes
+Crest-tailed mulgara,Dasycercus hillieri,Mammals,Dasyuromorphia,Dasyuridae,Dasy_hill_1,67,17,Functional,196,148384,0.3972,AOO,Ar,0.184,0.176,0.192,3.9131E-157,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,22319,Overall,216,7337808,0.402,EOO,Ho,0.013,0.006,0.019,1.14E-04,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,171,Functional,416,441368,0.402,AOO,Ho,0.01,0.006,0.014,1.11E-06,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,22319,Overall,216,7337808,0.402,AOO,Ho,0.068,0.044,0.092,3.73E-08,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,171,Functional,416,441368,0.402,EOO,Ho,0.007,0.005,0.009,1.36E-18,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,22319,Overall,216,7337808,0.402,AOO,uHe,0.102,0.087,0.117,4.68E-35,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,22319,Overall,216,7337808,0.402,EOO,uHe,0.034,0.03,0.037,1.31E-60,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,171,Functional,416,441368,0.402,AOO,uHe,0.074,0.066,0.083,6.81E-61,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,22319,Overall,216,7337808,0.402,AOO,He,0.159,0.143,0.175,5.30E-62,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,171,Functional,416,441368,0.402,AOO,He,0.086,0.077,0.095,3.08E-72,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,171,Functional,416,441368,0.402,AOO,H,0.096,0.087,0.105,9.37E-83,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,22319,Overall,216,7337808,0.402,EOO,He,0.049,0.046,0.053,2.08E-97,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,22319,Overall,216,7337808,0.402,AOO,H,0.229,0.214,0.244,3.87E-104,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,22319,Overall,216,7337808,0.402,EOO,Ar,0.036,0.033,0.038,6.00E-108,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,171,Functional,416,441368,0.402,AOO,Ar,0.071,0.066,0.077,1.86E-126,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,22319,Overall,216,7337808,0.402,EOO,H,0.066,0.063,0.069,7.16E-144,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,171,Functional,416,441368,0.402,EOO,uHe,0.05,0.047,0.052,2.54E-200,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,22319,Overall,216,7337808,0.402,AOO,Ar,0.151,0.146,0.156,1.33E-204,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,171,Functional,416,441368,0.402,EOO,He,0.055,0.052,0.058,2.90E-219,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,171,Functional,416,441368,0.402,EOO,H,0.06,0.057,0.063,2.60E-243,yes
+Australian eastern three-lined skink,Bassiana duperreyi,Reptiles,Squamata,Scincidae,Bass_dupe_1,286,171,Functional,416,441368,0.402,EOO,Ar,0.043,0.041,0.044,0.00E+00,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,53,Functional,260,5940072,0.41,EOO,Ho,0.001,-0.003,0.005,0.5653851,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,53,Functional,260,5940072,0.41,EOO,uHe,0.021,0.013,0.029,2.71937E-07,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,53,Functional,260,5940072,0.41,AOO,Ho,0.047,0.035,0.060,1.3398E-12,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,53,Functional,260,5940072,0.41,EOO,He,0.041,0.033,0.050,2.90044E-19,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,53,Functional,260,5940072,0.41,EOO,H,0.044,0.035,0.052,8.74068E-22,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,53,Functional,260,5940072,0.41,AOO,uHe,0.165,0.145,0.186,1.27824E-45,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,53,Functional,260,5940072,0.41,EOO,Ar,0.031,0.027,0.034,7.1861E-48,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,53,Functional,260,5940072,0.41,AOO,He,0.233,0.213,0.253,3.94027E-75,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,53,Functional,260,5940072,0.41,AOO,H,0.238,0.218,0.258,1.86559E-79,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2a,74,53,Functional,260,5940072,0.41,AOO,Ar,0.135,0.127,0.142,1.6129E-131,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,268,Functional,120,2696,0.42,EOO,Ho,0.013,0.011,0.015,1.20E-48,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,268,Functional,120,2696,0.42,AOO,Ho,0.046,0.043,0.05,2.62E-151,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,268,Functional,120,2696,0.42,AOO,Ar,0.121,0.119,0.124,0.00E+00,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,268,Functional,120,2696,0.42,AOO,H,0.198,0.195,0.201,0.00E+00,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,268,Functional,120,2696,0.42,AOO,He,0.18,0.178,0.183,0.00E+00,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,268,Functional,120,2696,0.42,AOO,uHe,0.163,0.16,0.165,0.00E+00,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,268,Functional,120,2696,0.42,EOO,Ar,0.049,0.048,0.051,0.00E+00,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,268,Functional,120,2696,0.42,EOO,H,0.084,0.082,0.087,0.00E+00,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,268,Functional,120,2696,0.42,EOO,He,0.076,0.074,0.078,0.00E+00,yes
+Littlejohn's tree frog,Litoria (Rawlinsonia) littlejohni,Amphibians,Anura,Hylidae,Lito_litt_1a,364,268,Functional,120,2696,0.42,EOO,uHe,0.07,0.068,0.072,0.00E+00,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,72,Functional,684,258248,0.475,EOO,Ho,-0.001,-0.005,0.003,0.698762,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,72,Functional,684,258248,0.475,AOO,Ho,-0.014,-0.021,-0.007,8.67753E-05,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,72,Functional,684,258248,0.475,AOO,uHe,0.114,0.103,0.125,4.87008E-81,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,72,Functional,684,258248,0.475,AOO,He,0.129,0.118,0.140,1.7222E-99,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,72,Functional,684,258248,0.475,AOO,H,0.137,0.127,0.148,8.4156E-124,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,72,Functional,684,258248,0.475,EOO,uHe,0.080,0.074,0.085,4.5132E-153,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,72,Functional,684,258248,0.475,EOO,He,0.088,0.083,0.093,2.6172E-180,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,72,Functional,684,258248,0.475,EOO,H,0.093,0.088,0.098,7.5961E-231,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,72,Functional,684,258248,0.475,AOO,Ar,0.084,0.080,0.087,0,yes
+Koala,Phascolarctos cinereus,Mammals,Diprotodontia,Phascolarctidae,Phas_cine_1,266,72,Functional,684,258248,0.475,EOO,Ar,0.052,0.051,0.053,0,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,15458,Overall,420,4554232,0.478,EOO,Ho,0.035,0.028,0.043,7.37E-19,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,15458,Overall,420,4554232,0.478,AOO,Ho,0.127,0.105,0.149,2.91E-27,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,15458,Overall,420,4554232,0.478,EOO,Ar,0.053,0.05,0.056,8.23E-173,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,15458,Overall,420,4554232,0.478,EOO,uHe,0.139,0.132,0.146,7.71E-177,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,15458,Overall,420,4554232,0.478,AOO,uHe,0.419,0.399,0.44,6.49E-187,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,15458,Overall,420,4554232,0.478,EOO,He,0.152,0.145,0.159,6.90E-198,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,15458,Overall,420,4554232,0.478,AOO,He,0.46,0.44,0.48,5.58E-213,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,15458,Overall,420,4554232,0.478,EOO,H,0.158,0.151,0.164,2.05E-220,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,15458,Overall,420,4554232,0.478,AOO,Ar,0.169,0.162,0.176,1.14E-222,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,15458,Overall,420,4554232,0.478,AOO,H,0.475,0.456,0.494,5.31E-229,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,6,Functional,180,10840,0.4968,AOO,Ho,0.003,-0.127,0.134,0.9623969,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,6,Functional,180,10840,0.4968,EOO,Ho,0.038,-0.010,0.086,0.118793,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,6,Functional,180,10840,0.4968,AOO,uHe,0.085,0.029,0.141,0.003101413,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,6,Functional,180,10840,0.4968,EOO,uHe,0.051,0.031,0.071,7.67305E-07,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,6,Functional,180,10840,0.4968,AOO,He,0.167,0.112,0.221,6.98561E-09,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,6,Functional,180,10840,0.4968,EOO,He,0.077,0.058,0.097,8.59416E-14,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,6,Functional,180,10840,0.4968,AOO,H,0.205,0.156,0.253,4.09184E-15,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,6,Functional,180,10840,0.4968,EOO,H,0.086,0.070,0.103,4.9957E-21,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,6,Functional,180,10840,0.4968,EOO,Ar,0.058,0.052,0.064,6.64532E-55,yes
+Dingo,Canis lupus dingo,Mammals,Carnivora,Canidae,Cani_ding_2c,51,6,Functional,180,10840,0.4968,AOO,Ar,0.161,0.146,0.176,4.97648E-62,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,140,Functional,208,1790916,0.5474,EOO,Ho,0.026,0.018,0.034,1.1663E-10,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,140,Functional,208,1790916,0.5474,AOO,Ho,0.093,0.070,0.115,7.48299E-15,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,140,Functional,208,1790916,0.5474,EOO,uHe,0.112,0.104,0.121,5.51489E-87,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,140,Functional,208,1790916,0.5474,EOO,He,0.129,0.121,0.138,2.4469E-103,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,140,Functional,208,1790916,0.5474,AOO,uHe,0.354,0.331,0.377,2.5514E-107,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,140,Functional,208,1790916,0.5474,EOO,Ar,0.059,0.055,0.063,9.6969E-111,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,140,Functional,208,1790916,0.5474,EOO,H,0.143,0.135,0.152,9.3321E-115,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,140,Functional,208,1790916,0.5474,AOO,He,0.403,0.380,0.425,1.9594E-125,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,140,Functional,208,1790916,0.5474,AOO,H,0.444,0.422,0.467,7.4354E-138,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,140,Functional,208,1790916,0.5474,AOO,Ar,0.198,0.191,0.204,2.4499E-206,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,48,Functional,56,12212,0.5564,EOO,Ho,0.014,-0.012,0.041,0.2922262,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,48,Functional,56,12212,0.5564,AOO,Ho,-0.082,-0.162,-0.002,0.04564509,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,48,Functional,56,12212,0.5564,EOO,uHe,0.123,0.098,0.148,1.44437E-17,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,48,Functional,56,12212,0.5564,AOO,uHe,0.396,0.323,0.470,3.16825E-20,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,48,Functional,56,12212,0.5564,EOO,He,0.156,0.131,0.182,6.84889E-24,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,48,Functional,56,12212,0.5564,EOO,H,0.162,0.136,0.187,1.98531E-25,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,48,Functional,56,12212,0.5564,AOO,He,0.497,0.422,0.572,7.9803E-27,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,48,Functional,56,12212,0.5564,AOO,H,0.510,0.436,0.585,4.13908E-28,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,48,Functional,56,12212,0.5564,EOO,Ar,0.073,0.067,0.078,1.28281E-59,yes
+Brown kosciuscola,Kosciuscola cuneatus,Insects,Orthoptera,Acrididae,Kosc_cune_1,27,48,Functional,56,12212,0.5564,AOO,Ar,0.225,0.210,0.240,6.19868E-66,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,78,Functional,420,4554232,0.565,EOO,Ho,0.031,0.021,0.04,2.51E-10,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,78,Functional,420,4554232,0.565,AOO,Ho,0.12,0.093,0.146,1.75E-17,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,78,Functional,420,4554232,0.565,EOO,uHe,0.169,0.159,0.179,1.90E-147,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,78,Functional,420,4554232,0.565,AOO,uHe,0.502,0.475,0.53,3.36E-158,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,78,Functional,420,4554232,0.565,EOO,He,0.184,0.174,0.193,9.11E-165,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,78,Functional,420,4554232,0.565,AOO,He,0.546,0.519,0.574,6.76E-179,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,78,Functional,420,4554232,0.565,AOO,H,0.615,0.589,0.641,1.06E-216,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,78,Functional,420,4554232,0.565,EOO,H,0.207,0.199,0.216,3.05E-222,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,78,Functional,420,4554232,0.565,EOO,Ar,0.055,0.053,0.057,6.17E-229,yes
+Carpet python,Morelia spilota,Reptiles,Squamata,Pythonidae,More_spil_1,120,78,Functional,420,4554232,0.565,AOO,Ar,0.171,0.165,0.176,7.55E-276,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,95,Functional,232,3447952,0.568,AOO,Ho,0.042,0.036,0.048,6.92E-42,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,95,Functional,232,3447952,0.568,EOO,Ho,0.015,0.013,0.017,2.06E-48,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,95,Functional,232,3447952,0.568,AOO,Ar,0.125,0.123,0.127,0.00E+00,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,95,Functional,232,3447952,0.568,AOO,H,0.246,0.239,0.254,0.00E+00,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,95,Functional,232,3447952,0.568,AOO,He,0.231,0.224,0.238,0.00E+00,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,95,Functional,232,3447952,0.568,AOO,uHe,0.219,0.212,0.226,0.00E+00,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,95,Functional,232,3447952,0.568,EOO,Ar,0.039,0.038,0.04,0.00E+00,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,95,Functional,232,3447952,0.568,EOO,H,0.083,0.08,0.085,0.00E+00,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,95,Functional,232,3447952,0.568,EOO,He,0.078,0.076,0.081,0.00E+00,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,95,Functional,232,3447952,0.568,EOO,uHe,0.074,0.072,0.077,0.00E+00,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,229,Functional,216,7337808,0.5784,EOO,Ho,0.046,0.030,0.062,5.82322E-08,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,229,Functional,216,7337808,0.5784,AOO,Ho,0.254,0.195,0.313,3.54125E-16,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,229,Functional,216,7337808,0.5784,EOO,uHe,0.090,0.082,0.098,3.62795E-71,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,229,Functional,216,7337808,0.5784,AOO,uHe,0.341,0.311,0.370,7.33783E-74,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,229,Functional,216,7337808,0.5784,EOO,He,0.105,0.097,0.113,6.40127E-87,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,229,Functional,216,7337808,0.5784,EOO,H,0.104,0.096,0.112,1.60954E-88,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,229,Functional,216,7337808,0.5784,AOO,He,0.398,0.368,0.428,6.64992E-90,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,229,Functional,216,7337808,0.5784,AOO,H,0.394,0.364,0.423,1.87548E-90,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,229,Functional,216,7337808,0.5784,EOO,Ar,0.046,0.043,0.048,8.3106E-128,yes
+Common brushtail possum,Trichosurus vulpecula,Mammals,Diprotodontia,Phalangeridae,Tric_vulp_1,71,229,Functional,216,7337808,0.5784,AOO,Ar,0.179,0.171,0.187,6.1347E-158,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,217,Functional,168,125536,0.5808,EOO,Ho,0.013,0.004,0.022,0.004559565,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,217,Functional,168,125536,0.5808,AOO,Ho,0.135,0.110,0.160,4.60392E-24,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,217,Functional,168,125536,0.5808,EOO,uHe,0.106,0.096,0.116,2.03495E-71,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,217,Functional,168,125536,0.5808,EOO,Ar,0.049,0.045,0.054,2.20181E-73,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,217,Functional,168,125536,0.5808,EOO,He,0.121,0.110,0.132,7.92257E-74,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,217,Functional,168,125536,0.5808,EOO,H,0.124,0.113,0.135,1.63968E-75,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,217,Functional,168,125536,0.5808,AOO,uHe,0.359,0.332,0.386,1.12595E-94,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,217,Functional,168,125536,0.5808,AOO,He,0.417,0.388,0.446,7.8043E-105,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,217,Functional,168,125536,0.5808,AOO,H,0.431,0.403,0.460,1.1034E-109,yes
+Brown antechinus,Antechinus stuartii,Mammals,Dasyuromorphia,Dasyuridae,Ante_stua_1,82,217,Functional,168,125536,0.5808,AOO,Ar,0.188,0.178,0.198,3.4638E-149,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,40912,Overall,232,3447952,0.598,EOO,Ho,0.013,0.011,0.015,1.55E-33,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,40912,Overall,232,3447952,0.598,AOO,Ho,0.038,0.032,0.044,3.31E-34,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,40912,Overall,232,3447952,0.598,AOO,Ar,0.152,0.15,0.154,0.00E+00,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,40912,Overall,232,3447952,0.598,AOO,H,0.252,0.245,0.259,0.00E+00,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,40912,Overall,232,3447952,0.598,AOO,He,0.241,0.234,0.247,0.00E+00,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,40912,Overall,232,3447952,0.598,AOO,uHe,0.229,0.222,0.235,0.00E+00,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,40912,Overall,232,3447952,0.598,EOO,Ar,0.048,0.047,0.049,0.00E+00,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,40912,Overall,232,3447952,0.598,EOO,H,0.084,0.082,0.087,0.00E+00,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,40912,Overall,232,3447952,0.598,EOO,He,0.081,0.079,0.084,0.00E+00,yes
+Murray river turtle,Emydura macquarii,Reptiles,Testudines,Chelidae,Emyd_macq_1,407,40912,Overall,232,3447952,0.598,EOO,uHe,0.077,0.075,0.079,0.00E+00,yes
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,206,Functional,24,512,0.6059,EOO,Ar,0.000,-0.008,0.008,0.9627645,no
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,206,Functional,24,512,0.6059,AOO,Ar,-0.039,-0.059,-0.019,0.000121443,no
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,206,Functional,24,512,0.6059,EOO,H,-0.104,-0.146,-0.063,1.08827E-06,no
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,206,Functional,24,512,0.6059,EOO,He,-0.128,-0.173,-0.084,3.00662E-08,no
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,206,Functional,24,512,0.6059,EOO,uHe,-0.135,-0.179,-0.090,5.30147E-09,no
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,206,Functional,24,512,0.6059,AOO,H,-0.423,-0.519,-0.327,8.59253E-17,no
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,206,Functional,24,512,0.6059,AOO,He,-0.498,-0.600,-0.395,1.35637E-19,no
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,206,Functional,24,512,0.6059,AOO,uHe,-0.513,-0.615,-0.411,6.90196E-21,no
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,206,Functional,24,512,0.6059,EOO,Ho,-0.256,-0.299,-0.213,7.39369E-28,no
+Booroolong frog,Litoria (Rhyaconastes) booroolongensis,Amphibians,Anura,Hylidae,Lito_boor_1,73,206,Functional,24,512,0.6059,AOO,Ho,-0.758,-0.854,-0.661,2.51509E-43,no
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,158,Functional,80,625484,0.6071,EOO,Ho,0.014,-0.006,0.034,0.1731291,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,158,Functional,80,625484,0.6071,AOO,Ho,0.207,0.121,0.294,6.04472E-06,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,158,Functional,80,625484,0.6071,EOO,uHe,0.101,0.063,0.139,7.04279E-07,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,158,Functional,80,625484,0.6071,EOO,He,0.126,0.086,0.165,6.98595E-09,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,158,Functional,80,625484,0.6071,EOO,H,0.130,0.093,0.167,4.27416E-10,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,158,Functional,80,625484,0.6071,EOO,Ar,0.049,0.037,0.061,2.1586E-13,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,158,Functional,80,625484,0.6071,AOO,uHe,0.784,0.649,0.919,3.1165E-20,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,158,Functional,80,625484,0.6071,AOO,He,0.905,0.772,1.039,1.64036E-24,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,158,Functional,80,625484,0.6071,AOO,H,0.906,0.783,1.028,4.4935E-27,yes
+Desert tree frog,Litoria (Colleeneremia) rubella,Amphibians,Anura,Hylidae,Lito_rube_1,21,158,Functional,80,625484,0.6071,AOO,Ar,0.320,0.286,0.355,1.26014E-34,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,62,Functional,292,538224,0.6132,AOO,Ho,0.001,-0.010,0.012,0.868029,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,62,Functional,292,538224,0.6132,EOO,Ho,-0.003,-0.008,0.002,0.1909868,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,62,Functional,292,538224,0.6132,AOO,uHe,0.092,0.075,0.109,7.02806E-24,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,62,Functional,292,538224,0.6132,EOO,uHe,0.051,0.044,0.058,3.05911E-40,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,62,Functional,292,538224,0.6132,AOO,He,0.144,0.127,0.161,1.23416E-48,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,62,Functional,292,538224,0.6132,AOO,H,0.161,0.144,0.178,6.31621E-59,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,62,Functional,292,538224,0.6132,EOO,He,0.074,0.067,0.080,8.93764E-74,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,62,Functional,292,538224,0.6132,EOO,H,0.082,0.075,0.088,8.39219E-89,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,62,Functional,292,538224,0.6132,AOO,Ar,0.093,0.086,0.099,1.7932E-106,yes
+Spotted-tailed quoll,Dasyurus maculatus,Mammals,Dasyuromorphia,Dasyuridae,Dasy_macu_1,83,62,Functional,292,538224,0.6132,EOO,Ar,0.041,0.039,0.044,9.9427E-115,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,309,Functional,292,6154720,0.6212,EOO,Ho,0.034,0.020,0.048,2.17806E-06,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,309,Functional,292,6154720,0.6212,AOO,Ho,0.114,0.072,0.155,1.04474E-07,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,309,Functional,292,6154720,0.6212,AOO,uHe,0.279,0.248,0.310,7.31749E-54,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,309,Functional,292,6154720,0.6212,EOO,uHe,0.097,0.087,0.107,4.77256E-59,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,309,Functional,292,6154720,0.6212,AOO,He,0.350,0.318,0.382,6.46923E-71,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,309,Functional,292,6154720,0.6212,AOO,H,0.365,0.333,0.397,5.29283E-75,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,309,Functional,292,6154720,0.6212,EOO,He,0.121,0.110,0.131,6.6806E-78,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,309,Functional,292,6154720,0.6212,EOO,H,0.125,0.115,0.136,1.99033E-81,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,309,Functional,292,6154720,0.6212,EOO,Ar,0.053,0.051,0.055,1.0504E-175,yes
+Black-tailed monitor,Varanus tristis,Reptiles,Squamata,Varanidae,Vara_tris_1,78,309,Functional,292,6154720,0.6212,AOO,Ar,0.167,0.163,0.172,5.1763E-249,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,12607,Overall,136,173824,0.67,EOO,Ho,0.021,0.014,0.028,7.28E-09,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,12607,Overall,136,173824,0.67,AOO,Ho,0.07,0.048,0.091,3.64E-10,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,12607,Overall,136,173824,0.67,AOO,uHe,0.424,0.399,0.449,3.89E-129,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,12607,Overall,136,173824,0.67,AOO,He,0.467,0.441,0.493,1.32E-141,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,12607,Overall,136,173824,0.67,EOO,uHe,0.141,0.133,0.148,2.53E-142,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,12607,Overall,136,173824,0.67,EOO,He,0.154,0.146,0.161,1.07E-152,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,12607,Overall,136,173824,0.67,AOO,H,0.526,0.5,0.551,8.16E-162,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,12607,Overall,136,173824,0.67,EOO,H,0.171,0.163,0.179,5.81E-167,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,12607,Overall,136,173824,0.67,EOO,Ar,0.065,0.063,0.068,3.50E-185,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,12607,Overall,136,173824,0.67,AOO,Ar,0.208,0.2,0.215,4.58E-211,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,30081,Overall,208,1790916,0.674,EOO,Ho,0.021,0.016,0.026,6.32E-15,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,30081,Overall,208,1790916,0.674,AOO,Ho,0.072,0.057,0.087,8.89E-20,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,30081,Overall,208,1790916,0.674,EOO,Ar,0.059,0.055,0.064,4.54E-94,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,30081,Overall,208,1790916,0.674,EOO,uHe,0.109,0.101,0.116,1.08E-98,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,30081,Overall,208,1790916,0.674,EOO,He,0.126,0.118,0.133,5.18E-117,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,30081,Overall,208,1790916,0.674,AOO,uHe,0.34,0.321,0.36,2.43E-121,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,30081,Overall,208,1790916,0.674,EOO,H,0.139,0.132,0.147,3.79E-130,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,30081,Overall,208,1790916,0.674,AOO,He,0.389,0.37,0.409,1.36E-141,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,30081,Overall,208,1790916,0.674,AOO,H,0.429,0.41,0.449,1.53E-156,yes
+Southern spiny-tailed gecko,Strophurus intermedius,Reptiles,Squamata,Diplodactylidae,Stro_inte_1,71,30081,Overall,208,1790916,0.674,AOO,Ar,0.206,0.198,0.213,3.50E-190,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,39,Functional,67,31536,0.6955,EOO,Ho,0.008,-0.007,0.024,0.2982328,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,39,Functional,67,31536,0.6955,EOO,uHe,0.024,0.000,0.047,0.04976318,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,39,Functional,67,31536,0.6955,EOO,He,0.039,0.010,0.067,0.008309514,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,39,Functional,67,31536,0.6955,EOO,H,0.043,0.014,0.071,0.003423971,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,39,Functional,67,31536,0.6955,EOO,Ar,0.030,0.016,0.044,2.05028E-05,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,39,Functional,67,31536,0.6955,AOO,Ho,0.156,0.128,0.184,7.69568E-25,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,39,Functional,67,31536,0.6955,AOO,uHe,0.403,0.377,0.430,5.6832E-103,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,39,Functional,67,31536,0.6955,AOO,He,0.515,0.487,0.544,8.8372E-124,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,39,Functional,67,31536,0.6955,AOO,H,0.519,0.491,0.546,1.0062E-127,yes
+Sugarbag bee,Tetragonula carbonaria,Insects,Hymenoptera,Apidae,Tetr_carb_1,21.67,39,Functional,67,31536,0.6955,AOO,Ar,0.278,0.273,0.284,5.9396E-267,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,55,Functional,72,32452,0.7461,AOO,Ho,0.186,0.159,0.214,4.56477E-36,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,55,Functional,72,32452,0.7461,EOO,Ho,0.064,0.056,0.072,4.48927E-46,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,55,Functional,72,32452,0.7461,AOO,uHe,0.656,0.619,0.693,3.5579E-168,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,55,Functional,72,32452,0.7461,AOO,He,0.675,0.637,0.712,6.9155E-172,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,55,Functional,72,32452,0.7461,AOO,H,0.679,0.642,0.716,4.347E-173,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,55,Functional,72,32452,0.7461,EOO,uHe,0.215,0.205,0.226,1.1444E-212,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,55,Functional,72,32452,0.7461,EOO,He,0.222,0.212,0.232,1.3747E-218,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,55,Functional,72,32452,0.7461,EOO,H,0.224,0.214,0.234,7.9919E-223,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,55,Functional,72,32452,0.7461,AOO,Ar,0.178,0.172,0.185,1.1227E-278,yes
+Key's matchstick grasshopper,Keyacris scurra,Insects,Orthoptera,Morabidae,Keya_scur_1,147,55,Functional,72,32452,0.7461,EOO,Ar,0.058,0.056,0.059,0,yes
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,1042,Overall,56,45480,0.874,AOO,Ho,-0.005,-0.02,0.011,5.66E-01,yes
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,1042,Overall,56,45480,0.874,EOO,Ho,0.002,-0.001,0.006,2.18E-01,yes
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,1042,Overall,56,45480,0.874,AOO,uHe,0.725,0.679,0.771,4.21E-134,yes
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,1042,Overall,56,45480,0.874,EOO,uHe,0.165,0.155,0.176,1.90E-134,yes
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,1042,Overall,56,45480,0.874,AOO,He,0.741,0.695,0.787,8.05E-140,yes
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,1042,Overall,56,45480,0.874,EOO,He,0.169,0.159,0.179,1.29E-140,yes
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,1042,Overall,56,45480,0.874,AOO,H,0.739,0.695,0.784,2.35E-146,yes
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,1042,Overall,56,45480,0.874,EOO,H,0.169,0.159,0.179,1.14E-149,yes
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,1042,Overall,56,45480,0.874,EOO,Ar,0.053,0.051,0.054,3.44E-263,yes
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,1042,Overall,56,45480,0.874,AOO,Ar,0.235,0.227,0.243,4.71E-288,yes
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,2,Functional,56,45480,0.8885,AOO,Ar,0.243,0.222,0.264,2.77496E-76,no
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,43,Functional,136,173824,0.9649,AOO,Ho,0.076,0.019,0.133,0.008616824,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,43,Functional,136,173824,0.9649,EOO,Ho,0.026,0.008,0.045,0.005629132,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,43,Functional,136,173824,0.9649,EOO,uHe,0.331,0.311,0.351,3.449E-121,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,43,Functional,136,173824,0.9649,EOO,He,0.342,0.321,0.362,7.0126E-124,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,43,Functional,136,173824,0.9649,EOO,H,0.328,0.309,0.347,7.6335E-125,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,43,Functional,136,173824,0.9649,AOO,uHe,1.042,0.985,1.098,9.0821E-137,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,43,Functional,136,173824,0.9649,AOO,He,1.076,1.019,1.132,1.52E-140,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,43,Functional,136,173824,0.9649,AOO,H,1.033,0.980,1.087,4.4769E-144,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,43,Functional,136,173824,0.9649,AOO,Ar,0.264,0.253,0.274,5.7824E-195,yes
+Highlands forest-skink,Anepischetosia maccoyi,Reptiles,Squamata,Scincidae,Anep_macc_1,86,43,Functional,136,173824,0.9649,EOO,Ar,0.087,0.084,0.090,2.1416E-227,yes
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,215,Functional,100,249456,1,AOO,Ho,NA,NA,NA,NA,no
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,215,Functional,100,249456,1,EOO,Ho,NA,NA,NA,NA,no
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,215,Functional,100,249456,1,EOO,Ar,0.022,0.008,0.037,0.002106609,no
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,215,Functional,100,249456,1,AOO,Ar,0.096,0.044,0.147,0.000343325,no
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,215,Functional,100,249456,1,EOO,H,-0.099,-0.139,-0.060,7.93501E-06,no
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,215,Functional,100,249456,1,EOO,He,-0.134,-0.187,-0.081,7.58905E-06,no
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,215,Functional,100,249456,1,EOO,uHe,-0.154,-0.207,-0.101,6.74034E-07,no
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,215,Functional,100,249456,1,AOO,H,-0.415,-0.521,-0.309,7.95895E-10,no
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,215,Functional,100,249456,1,AOO,He,-0.558,-0.701,-0.416,7.94196E-10,no
+Agile antechinus,Antechinus agilis,Mammals,Dasyuromorphia,Dasyuridae,Ante_agil_1,29,215,Functional,100,249456,1,AOO,uHe,-0.619,-0.759,-0.479,3.1591E-11,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,2,Functional,132,142284,NA,AOO,Ar,NA,NA,NA,NA,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,2,Functional,132,142284,NA,AOO,H,NA,NA,NA,NA,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,2,Functional,132,142284,NA,AOO,Ho,NA,NA,NA,NA,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,2,Functional,132,142284,NA,AOO,He,NA,NA,NA,NA,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,2,Functional,132,142284,NA,AOO,uHe,NA,NA,NA,NA,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,2,Functional,132,142284,NA,EOO,Ar,NA,NA,NA,NA,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,2,Functional,132,142284,NA,EOO,H,NA,NA,NA,NA,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,2,Functional,132,142284,NA,EOO,Ho,NA,NA,NA,NA,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,2,Functional,132,142284,NA,EOO,He,NA,NA,NA,NA,no
+Regent honeyeater,Anthochaera phrygia,Birds,Passeriformes,Meliphagidae,Anth_phry_1a,132,2,Functional,132,142284,NA,EOO,uHe,NA,NA,NA,NA,no
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,0,Functional,68,7000,NA,AOO,Ar,NA,NA,NA,NA,no
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,0,Functional,68,7000,NA,AOO,H,NA,NA,NA,NA,no
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,0,Functional,68,7000,NA,AOO,Ho,NA,NA,NA,NA,no
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,0,Functional,68,7000,NA,AOO,He,NA,NA,NA,NA,no
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,0,Functional,68,7000,NA,AOO,uHe,NA,NA,NA,NA,no
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,0,Functional,68,7000,NA,EOO,Ar,NA,NA,NA,NA,no
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,0,Functional,68,7000,NA,EOO,H,NA,NA,NA,NA,no
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,0,Functional,68,7000,NA,EOO,Ho,NA,NA,NA,NA,no
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,0,Functional,68,7000,NA,EOO,He,NA,NA,NA,NA,no
+Common montane grasshopper,Kosciuscola cognatus,Insects,Orthoptera,Acrididae,Kosc_cogn_1,39,0,Functional,68,7000,NA,EOO,uHe,NA,NA,NA,NA,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,1,Functional,84,11544,NA,AOO,Ar,NA,NA,NA,NA,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,1,Functional,84,11544,NA,AOO,H,NA,NA,NA,NA,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,1,Functional,84,11544,NA,AOO,Ho,NA,NA,NA,NA,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,1,Functional,84,11544,NA,AOO,He,NA,NA,NA,NA,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,1,Functional,84,11544,NA,AOO,uHe,NA,NA,NA,NA,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,1,Functional,84,11544,NA,EOO,Ar,NA,NA,NA,NA,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,1,Functional,84,11544,NA,EOO,H,NA,NA,NA,NA,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,1,Functional,84,11544,NA,EOO,Ho,NA,NA,NA,NA,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,1,Functional,84,11544,NA,EOO,He,NA,NA,NA,NA,no
+Chameleon grasshopper,Kosciuscola tristis,Insects,Orthoptera,Acrididae,Kosc_tris_1,60,1,Functional,84,11544,NA,EOO,uHe,NA,NA,NA,NA,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,0,Functional,68,7188,NA,AOO,Ar,NA,NA,NA,NA,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,0,Functional,68,7188,NA,AOO,H,NA,NA,NA,NA,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,0,Functional,68,7188,NA,AOO,Ho,NA,NA,NA,NA,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,0,Functional,68,7188,NA,AOO,He,NA,NA,NA,NA,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,0,Functional,68,7188,NA,AOO,uHe,NA,NA,NA,NA,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,0,Functional,68,7188,NA,EOO,Ar,NA,NA,NA,NA,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,0,Functional,68,7188,NA,EOO,H,NA,NA,NA,NA,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,0,Functional,68,7188,NA,EOO,Ho,NA,NA,NA,NA,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,0,Functional,68,7188,NA,EOO,He,NA,NA,NA,NA,no
+Common kosciuscola,Kosciuscola usitatus,Insects,Orthoptera,Acrididae,Kosc_usit_1,39,0,Functional,68,7188,NA,EOO,uHe,NA,NA,NA,NA,no
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,2,Functional,56,45480,0.8885,EOO,uHe,0.187,0.148,0.226,1.11002E-18,no
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,2,Functional,56,45480,0.8885,EOO,He,0.191,0.152,0.230,1.87478E-19,no
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,2,Functional,56,45480,0.8885,EOO,H,0.136,0.109,0.163,1.41866E-20,no
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,2,Functional,56,45480,0.8885,AOO,H,0.612,0.493,0.732,4.16932E-21,no
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,2,Functional,56,45480,0.8885,AOO,uHe,0.885,0.716,1.054,2.5441E-21,no
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,2,Functional,56,45480,0.8885,AOO,He,0.900,0.732,1.069,4.05862E-22,no
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,2,Functional,56,45480,0.8885,EOO,Ho,-0.087,-0.103,-0.072,4.67586E-25,no
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,2,Functional,56,45480,0.8885,AOO,Ho,-0.396,-0.462,-0.330,2.87399E-26,no
+Ambrosia beetle,Austroplatypus incompertus,Insects,Coleoptera,Curculionidae,Aust_inco_1,123,2,Functional,56,45480,0.8885,EOO,Ar,0.058,0.053,0.062,3.09812E-92,no
