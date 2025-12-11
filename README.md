@@ -4,6 +4,8 @@ This repository contains scripts related to the analyses present in the paper "B
 
 It contains two files:
 
-Pre-processing_alignment_quantification.sh # Scripts to perform data pre-processing, alignment and gene expression quantification.
+- <Pre-processing_alignment_quantification.sh>
+Scripts to perform data pre-processing, alignment and gene expression quantification.
 
-Gene_expression_analysis.R # R scripts to perform differential expression analysis, differential variability analysis, functional analysis and data representation.
+- <Gene_expression_analysis.R>
+R scripts to perform differential expression analysis, differential variability analysis, functional analysis and data representation.
